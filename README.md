@@ -16,13 +16,41 @@ This guide will help you set up the Python virtual environment for this project.
    python3.12 -m venv clinbench_hpb
    ```
 
-3. Activate the virtual environment:
-   - On macOS/Linux:
-     ```bash
-     source clinbench_hpb/bin/activate
-     ```
+3. Activate the virtual environment
 
 4. Install the required packages from requirements.txt:
    ```bash
    pip install -r requirements.txt
    ```
+
+## Evaluating LLMs on our benchmark
+
+### Configuring API Inference LLMs
+
+Configure API Key:
+
+Open the utils.py file and replace the api_key with your own API key
+
+### Configuring Open-Source LLMs
+
+1. Download the model from huggingface or other sources.
+
+2. change the corresponding 'local_path' in the 'model_config' to your model.
+
+### Evaluating 
+
+   ```bash
+   cd ./scripts
+   bash run_eval_mc.sh or bash run_eval_case_journal.sh or bash run_eval_case_web_hospital.sh
+   ```
+
+You can change the datasets, models, and prompt_ls. The code will create the evaluating results in the ./results/ file.
+
+### Calculating Metrics
+
+   ```bash
+   bash metric_mc.sh or bash metric_case.sh
+   ```
+
+
+
