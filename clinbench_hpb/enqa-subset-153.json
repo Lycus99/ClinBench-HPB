@@ -1,0 +1,770 @@
+[
+    {
+        "question": "A patient presents with jaundice, fatigue, and elevated liver enzymes due to mild to moderate Acute Cholestatic Viral Hepatitis E. Which of the following is the most appropriate initial management option?",
+        "options": "A. Antiviral therapy B. Ursodeoxycholic acid C. Liver transplantation D. Supportive care with hydration and monitoring",
+        "answer": "D"
+    },
+    {
+        "question": "A pregnant lady is diagnosed to be HBs Ag positive. Which of the following is the best way to prevent infection to the child:\n ",
+        "options": "A. Hepatitis vaccine to the child\n B. Full course of Hepatitis B vaccine and immunoglobulin to the child\n C. Hepatitis B immunoglobulin to the mother\n D. Hepatitis B immunization to mother",
+        "answer": "B"
+    },
+    {
+        "question": "Drug-induced hepatitis, such as that caused by isoniazid, differs from toxic liver disease in what critical mechanism?",
+        "options": "A. It involves direct chemical toxicity without immune involvement B. It often involves immune-mediated mechanisms C. It is caused by bacterial infections D. It is always genetic",
+        "answer": "B"
+    },
+    {
+        "question": "What is the definitive intervention for irreversible liver failure in acute hepatitis B with delta-agent coinfection?",
+        "options": "A. Antiviral therapy B. Liver transplantation C. Nutritional support D. Hydration therapy",
+        "answer": "B"
+    },
+    {
+        "question": "A patient with drug-induced hepatitis presents with signs of immune-mediated reactions. Which of the following therapies is most appropriate for managing these reactions?",
+        "options": "A. Antihistamines B. Corticosteroids C. Immunosuppressants D. Plasmapheresis",
+        "answer": "B"
+    },
+    {
+        "question": "Which of the following is a typical symptom of insulin resistance?",
+        "options": "A. Steatorrhea B. Hyperglycemia C. Gallstones D. Fasting hypoglycemia",
+        "answer": "B"
+    },
+    {
+        "question": "In a patient with advanced pancreatic head cancer presenting with obstructive jaundice, what is the primary focus of palliative care?",
+        "options": "A. Pain management with opioids B. Biliary stenting for jaundice relief C. Weight gain strategies D. Nutritional support via enteral feeding",
+        "answer": "B"
+    },
+    {
+        "question": "Which of the following is a typical symptom of chronic cholecystitis?",
+        "options": "A. Left lower quadrant pain B. Recurrent right upper quadrant pain C. Chest pain D. Lower back pain",
+        "answer": "B"
+    },
+    {
+        "question": "Which symptom is most commonly associated with insulinomas?",
+        "options": "A. Peptic ulcers B. Hypoglycemia C. Flushing and diarrhea D. Hyperglycemia",
+        "answer": "B"
+    },
+    {
+        "question": "Which of the following is a common symptom of chronic active hepatitis, a form of toxic liver disease?",
+        "options": "A. Jaundice B. Fatigue C. Abdominal pain D. Headache",
+        "answer": "B"
+    },
+    {
+        "question": "A male with a history of chronic alcohol use presents with jaundice and elevated liver enzymes. Which diagnostic method is most appropriate to confirm the diagnosis of Alcoholic Liver Disease (ALD)?",
+        "options": "A. Serum ferritin level B. Liver biopsy C. Abdominal ultrasound D. Serum ammonia level",
+        "answer": "B"
+    },
+    {
+        "question": "What is the primary mode of transmission for Hepatitis B virus (HBV)?",
+        "options": "A. Contaminated food or water B. Blood or bodily fluids C. Airborne droplets D. Direct skin contact",
+        "answer": "B"
+    },
+    {
+        "question": "What is a common clinical presentation of hepatoblastoma?",
+        "options": "A. Severe abdominal pain B. Painless right upper abdominal mass C. Chronic diarrhea D. Persistent cough",
+        "answer": "B"
+    },
+    {
+        "question": "What is the mainstay of treatment for acute hepatitis A without hepatic coma?",
+        "options": "A. Antiviral therapy B. Supportive care C. Liver transplantation D. Antibiotics",
+        "answer": "B"
+    },
+    {
+        "question": "Which condition is characterized by pus accumulation around the gallbladder?",
+        "options": "A. Acute Cholecystitis B. Pericholecystic Abscess C. Necrosis of Gallbladder D. Acute Exacerbation of Chronic Cholecystitis",
+        "answer": "B"
+    },
+    {
+        "question": "A patient presents with jaundice and abdominal pain. Imaging reveals a biliary abnormality. What is the main anatomical difference between choledochal cysts and choledochal hypertrophy?",
+        "options": "A. Cysts are dilated structures; hypertrophy denotes wall thickening B. Cysts are more commonly associated with pancreatitis C. Cysts are congenital; hypertrophy is acquired D. Cysts require surgical intervention; hypertrophy may resolve with conservative management",
+        "answer": "A"
+    },
+    {
+        "question": "Which treatment is specifically required for Chronic Viral Hepatitis B with Delta-Agent without Hepatic Coma?",
+        "options": "A. Tenofovir B. Entecavir C. Pegylated interferon-alpha D. Corticosteroids",
+        "answer": "C"
+    },
+    {
+        "question": "A patient undergoes abdominal imaging for unexplained weight loss, revealing a solitary liver mass with features suspicious for malignancy. Which of the following benign lesions is most likely to mimic hepatocellular carcinoma on imaging?",
+        "options": "A. Focal nodular hyperplasia B. Hepatic adenoma C. Inflammatory pseudotumor of the liver D. Non-alcoholic steatohepatitis",
+        "answer": "C"
+    },
+    {
+        "question": "Which condition is characterized by gallbladder wall necrosis due to prolonged ischemia?",
+        "options": "A. Cholelithiasis with Acute Cholecystitis B. Cholelithiasis with Gangrenous Cholecystitis C. Cholelithiasis with Acute Suppurative Cholecystitis D. Chronic cholecystitis",
+        "answer": "B"
+    },
+    {
+        "question": "Which of the following is a leading cause of chronic liver failure in Western countries?",
+        "options": "A. Hepatitis B and C viral infections B. Chronic alcohol abuse C. Parasitic infections D. Metabolic disorders",
+        "answer": "B"
+    },
+    {
+        "question": "Which of the following is a key difference in the replication mechanisms of HBV/HDV and HCV infections?",
+        "options": "A. HCV requires HBV for replication B. HBV acute infections frequently become chronic C. HCV does not require a helper virus for replication D. HDV can only replicate in the presence of HBV",
+        "answer": "C"
+    },
+    {
+        "question": "A patient presents with jaundice, confusion, and coagulopathy, diagnosed with acute hepatitis B and hepatic coma. What is the key distinguishing feature between this condition and acute hepatitis B with hepatic coma accompanied by hepatitis D virus (HDV) coinfection?",
+        "options": "A. Presence of hepatitis D virus (HDV) B. Severity of hepatic coma C. Duration of symptoms D. Presence of liver fibrosis",
+        "answer": "A"
+    },
+    {
+        "question": "What is the primary treatment approach for mild acute idiopathic pancreatitis?",
+        "options": "A. Surgical intervention B. Aggressive fluid resuscitation and fasting C. Long-term antibiotic therapy D. Immediate oral refeeding with solid foods",
+        "answer": "B"
+    },
+    {
+        "question": "Which of the following is a treatment option for advanced cases of ampullary cancer?",
+        "options": "A. Surgery alone B. Adjuvant chemotherapy/radiotherapy C. Endoscopic ultrasound D. Physical therapy",
+        "answer": "B"
+    },
+    {
+        "question": "Which of the following is a common etiology of secondary biliary cirrhosis?",
+        "options": "A. Primary biliary cholangitis B. Gallstones C. Chronic hepatitis B infection D. Non-alcoholic fatty liver disease",
+        "answer": "B"
+    },
+    {
+        "question": "What is the standard surgical treatment for carcinoma in situ of the ampulla of Vater?",
+        "options": "A. Partial hepatectomy B. Endoscopic ampullectomy C. Cholecystectomy D. Whipple procedure",
+        "answer": "B"
+    },
+    {
+        "question": "What is the primary cause of a pancreatic fistula?",
+        "options": "A. Obesity B. Surgery, trauma, or pancreatitis C. Metabolic syndrome D. Chronic inflammation",
+        "answer": "B"
+    },
+    {
+        "question": "Public health researchers are reviewing data from an outbreak of hepatitis A that was traced to contaminated produce from a popular restaurant. A case series investigation with prospective and retrospective follow-up found that 500 individuals dined at the restaurant during the week of study. The incidence of hepatitis A infection was found to be 25%, and the total number of deaths recorded among the incident cases was 5 individuals. What was the case-fatality rate for the hepatitis A outbreak?\n ",
+        "options": "A. 4%\n B. 5%\n C. 10%\n D. 20%\n E. 25%",
+        "answer": "A"
+    },
+    {
+        "question": "What is the main focus of treatment for chronic persistent hepatitis?",
+        "options": "A. Surgical intervention B. Addressing the underlying cause C. Radiation therapy D. Chemotherapy",
+        "answer": "B"
+    },
+    {
+        "question": "What is the primary goal of surgical intervention in open injuries of the pancreas?",
+        "options": "A. Control bleeding and repair ducts B. Remove the entire pancreas C. Administer chemotherapy D. Perform a biopsy",
+        "answer": "A"
+    },
+    {
+        "question": "What is the primary cell of origin for hepatic angiosarcoma?",
+        "options": "A. Hepatocytes B. Endothelial cells C. Macrophages D. Dendritic cells",
+        "answer": "B"
+    },
+    {
+        "question": "What is the most likely cause of Obstruction of the Common Bile Duct in adults?",
+        "options": "A. Congenital malformation B. Chronic pancreatitis C. Gallstones D. Primary sclerosing cholangitis",
+        "answer": "C"
+    },
+    {
+        "question": "In the context of chronic liver disease progression, which of the following best distinguishes Alcoholic Liver Disease (ALD) from isolated alcoholic liver damage in terms of clinical management implications?",
+        "options": "A. ALD can be reversible with early abstinence and intervention B. Alcoholic liver damage consistently leads to portal hypertension C. ALD requires histologic confirmation of fibrosis/cirrhosis for diagnosis D. Alcoholic liver damage necessitates lifelong immunosuppressive therapy",
+        "answer": "C"
+    },
+    {
+        "question": "Colorectal cancer with synchronous liver metastases: does global management at the same centre improve results?\n Contexts: Synchronous liver metastases (SLM) occur in 20% of colorectal cancers (CRC). Resection of SLM and CLC can be undertaken at different centres (separate management, SM) or at the same centre (global management, GM).\nRetrospective study of SLM and CRC resections carried out during 01/2000 - 12/2006 by SM or GM, using a combined or delayed strategy.\nMorphologic characteristics and type of CRC and SLM resection were similar for the GM (n = 45) or SM (n = 66) groups. In patients with delayed liver resection (62 SM, 17 GM), chemotherapy prior to liver surgery was used in 92% and 38% of SM and GM patients (P<0.0001) and the median delay between procedures was 212 and 182 days, respectively (P = 0.04). First step of liver resection was more often performed during colorectal surgery in the GM group (62 vs. 6% for SM, P<0.0001) and the mean number of procedures (CRC+SLM) was lower (1.6 vs. 2.3, P = 0.003). Three-month mortality was 3% for GM and 0% for SM (n.s.). Overall survival rates were 67% and 51% for SM and GM at 3 years (n.s.), and 35 and 31% at 5 years (n.s.). Disease-free survival to 5 years was higher in SM patients (14% vs. 11%, P = 0.009).\n",
+        "options": "A. yes \n B. no \n C. maybe",
+        "answer": "B"
+    },
+    {
+        "question": "A patient with obesity and type 2 diabetes presents with elevated liver enzymes and evidence of liver fibrosis on imaging. Which of the following conditions is most likely contributing to the fibrosis due to underlying metabolic dysfunction?",
+        "options": "A. Non-alcoholic fatty liver disease (NAFLD)/Non-alcoholic steatohepatitis (NASH) B. Hereditary hemochromatosis C. Autoimmune hepatitis D. Chronic hepatitis B infection",
+        "answer": "A"
+    },
+    {
+        "question": "Which of the following is a common symptom of larger benign neoplasms of the gallbladder?",
+        "options": "A. Jaundice B. Right upper quadrant pain C. Itching D. Fever",
+        "answer": "B"
+    },
+    {
+        "question": "Which of the following is true about simple hepatic cysts?",
+        "options": "A. They are usually symptomatic B. They require surgical resection C. They are fluid-filled benign lesions D. They are associated with parasitic infections",
+        "answer": "C"
+    },
+    {
+        "question": "Acute severe pancreatitis, though rare, requires prompt recognition due to its high morbidity. Which of the following is a distinguishing feature of acute severe pancreatitis, as opposed to mild acute pancreatitis?",
+        "options": "A. Resolution within 48 hours with conservative management B. Pancreatic necrosis C. Mild symptoms D. No need for hospitalization",
+        "answer": "B"
+    },
+    {
+        "question": "Which symptom is most characteristic of gallbladder obstruction?",
+        "options": "A. Left upper quadrant pain B. Severe right upper quadrant pain radiating to the back or shoulder C. Lower abdominal cramping D. Chest pain",
+        "answer": "B"
+    },
+    {
+        "question": "A patient with a history of gallstones reports persistent symptoms over several months. Which symptom is most characteristic of chronic cholecystitis in this stable, non-acute presentation?",
+        "options": "A. Fever and chills B. Mild, intermittent right upper quadrant discomfort C. Recurrent dull abdominal pain after meals D. Persistent nausea with vomiting",
+        "answer": "C"
+    },
+    {
+        "question": "A patient presents with jaundice and episodic right upper quadrant pain. Imaging reveals multiple benign symptomatic bile duct polyps. What is the primary treatment?",
+        "options": "A. Transarterial embolization B. Surgical resection C. Oral synthetic bile acids D. Percutaneous aspiration E. Endoscopic surveillance F. Broad-spectrum antibiotic therapy",
+        "answer": "B"
+    },
+    {
+        "question": "A 65-year-old man comes to the physician because of a 1-week history of yellowish discoloration of his skin and generalized pruritus. Examination shows jaundice of the skin and scleral icterus. Urinalysis shows an elevated concentration of bilirubin and a low concentration of urobilinogen. Which of the following is the most likely underlying cause of these findings?\n ",
+        "options": "A. Absent UDP-glucuronosyltransferase activity\n B. Increased hemoglobin breakdown\n C. Increased intestinal bilirubin reabsorption\n D. Defective hepatic bile excretion\n E. Presence of stones within the gallbladder",
+        "answer": "D"
+    },
+    {
+        "question": "What is the main goal of treatment for chronic hepatitis?",
+        "options": "A. Managing life-threatening complications B. Viral suppression and fibrosis prevention C. Liver transplantation D. Supportive care",
+        "answer": "B"
+    },
+    {
+        "question": "What is the genetic basis of Progressive familial intrahepatic cholestasis (PFIC)?",
+        "options": "A. Mutations in bile transport genes B. Exposure to industrial chemicals C. Adverse drug reactions D. Viral infections",
+        "answer": "A"
+    },
+    {
+        "question": "What is the primary diagnostic method for confirming secondary malignant neoplasm of the biliary tract?",
+        "options": "A. Blood test B. ERCP, MRCP, or biopsy C. Physical examination D. Urine test",
+        "answer": "B"
+    },
+    {
+        "question": "Differentiation of nonalcoholic from alcoholic steatohepatitis: are routine laboratory markers useful?\n Contexts: Specific markers for differentiation of nonalcoholic (NASH) from alcoholic steatohepatitis (ASH) are lacking. We investigated the role of routine laboratory parameters in distinguishing NASH from ASH.\nLiver biopsies performed at our hospital over a 10-year period were reviewed, 95 patients with steatohepatitis identified and their data prior to biopsy reevaluated. The diagnosis NASH or ASH was assigned (other liver diseases excluded) on the basis of the biopsy and history of alcohol consumption (<140 g/week). Logistic regression models were used for analysis.\nNASH was diagnosed in 58 patients (61%; 30 f) and ASH in 37 (39%; 9 f). High-grade fibrosis (59% vs. 19%, P<0.0001) and an AST/ALT ratio>1 (54.1% vs 20.7%, P = 0.0008) were more common in ASH. The MCV was elevated in 53% of ASH patients and normal in all NASH patients (P<0.0001). Multivariate analysis identified the MCV (P = 0.0013), the AST/ALT ratio (P = 0.011) and sex (P = 0.0029) as relevant regressors (aROC = 0.92). The AST/ALT ratio (P<0.0001) and age (P = 0.00049) were independent predictors of high-grade fibrosis. Differences in MCV were more marked in high-grade fibrosis.\n",
+        "options": "A. yes \n B. no \n C. maybe",
+        "answer": "A"
+    },
+    {
+        "question": "A male presents with fatigue and elevated liver enzymes. Which of the following is the most common cause of chronic inflammatory liver disease in this patient?",
+        "options": "A. Viral infections B. Alcohol abuse C. Autoimmune reactions D. Metabolic abnormalities",
+        "answer": "A"
+    },
+    {
+        "question": "What is the primary cause of pseudocyst formation in the pancreas?",
+        "options": "A. Neoplastic growth B. Parasitic infections C. Inflammatory conditions D. Genetic disorders",
+        "answer": "C"
+    },
+    {
+        "question": "A 13-month-old boy is brought to the physician for a well-child examination. Physical examination shows hepatosplenomegaly. A venous blood sample obtained for routine screening tests is milky. After refrigeration, a creamy supernatant layer appears on top of the sample. Genetic analysis shows a mutation in the apolipoprotein C-II gene (APOC2) on chromosome 19. This patient is at greatest risk for developing which of the following complications?\n ",
+        "options": "A. Acute pancreatitis\n B. Myocardial infarction\n C. Corneal arci\n D. Cholesterol embolization syndrome\n E. Cerebrovascular accident",
+        "answer": "A"
+    },
+    {
+        "question": "A patient with a history of smoking presents with jaundice and weight loss. Genetic testing reveals a mutation associated with pancreatic cancer. Which of the following mutations is most likely responsible?",
+        "options": "A. BRCA1 B. KRAS C. EGFR D. SMAD4",
+        "answer": "B"
+    },
+    {
+        "question": "Clonorchiasis is a parasitic infection caused by the liver fluke Clonorchis sinensis, primarily transmitted through the consumption of undercooked freshwater fish. How can Clonorchiasis be prevented?",
+        "options": "A. Avoiding consumption of raw or undercooked shellfish B. Thoroughly cooking freshwater fish C. Drinking only boiled water D. Properly disposing of human feces to prevent contamination of water sources",
+        "answer": "B"
+    },
+    {
+        "question": "What is a key histological feature of Chronic Viral Hepatitis B, Moderate Activity?",
+        "options": "A. No significant fibrosis B. Minimal liver inflammation C. Necroinflammation on biopsy D. Severe cirrhosis",
+        "answer": "C"
+    },
+    {
+        "question": "Which of the following is NOT a typical symptom of acute pancreatitis?",
+        "options": "A. Nausea B. Vomiting C. Fever D. Joint pain",
+        "answer": "D"
+    },
+    {
+        "question": "A 59-year-old man is brought to the emergency department with a history of black, tarry stools but denies vomiting of blood or abdominal pain. His family has noticed progressive confusion. History is significant for liver cirrhosis and alcoholism. His heart rate is 112/min, temperature is 37.1°C (98.7°F), and blood pressure is 110/70 mm Hg. On examination, he is jaundiced, lethargic, is oriented to person and place but not date, and has moderate ascites. Neurological examination reveals asterixis, and his stool is guaiac-positive. Liver function test are shown below:\nTotal albumin 2 g/dL\nProthrombin time 9 seconds\nTotal bilirubin 5 mg/dL\nAlanine aminotransferase (ALT) 100 U/L\nAspartate aminotransferase (AST) 220 U/L\nWhich of the following is a feature of this patient condition?\n ",
+        "options": "A. It carries a good prognosis\n B. Ammonia level is the best initial test to confirm the diagnosis\n C. It is a diagnosis of exclusion\n D. It only occurs in patients with cirrhosis\n E. Electroencephalography (EEG) usually shows focal localising abnormality",
+        "answer": "C"
+    },
+    {
+        "question": "An otherwise healthy 49-year-old woman has a routine full blood count complete prior her elective cholecystectomy. The lab test results are as follows:\nLaboratory test\nHemoglobin\n12.1 g/dL\nMean corpuscular volume (MCV)\n85 μm3\nMean corpuscular hemoglobin concentration (MCHC)\n47%\nReticulocyte count\n3.4 %\nWhite blood cell count\n9700/mm3\nPlatelet count\n229,000/mm3\nA peripheral blood smear reveals spherocytes. The Coombs test is negative. The physical examination is remarkable for scleral icterus and moderate splenomegaly. Which of the following is the most appropriate diagnostic test of this patient’s underlying disorder?\n ",
+        "options": "A. Eosin-5-maleimide binding test\n B. Flow cytometry for CD55/CD59\n C. Anti parvovirus B19 antibodies\n D. Bone marrow biopsy\n E. Liver function tests",
+        "answer": "A"
+    },
+    {
+        "question": "A chronic alcoholic patient came to emergency with severe pain in epigastrium and multiple episodes of vomiting. On examination, guarding was present in upper epigastrium. Chest X-ray was normal. What is the next best step?\n ",
+        "options": "A. Upper GI endoscopy\n B. Serum lipase\n C. Alcohol breath test\n D. CECT",
+        "answer": "B"
+    },
+    {
+        "question": "Which of the following is a primary cause of liver cirrhosis?",
+        "options": "A. Chronic alcohol abuse B. Hypertension C. Diabetes mellitus D. Hyperthyroidism",
+        "answer": "A"
+    },
+    {
+        "question": "Hepatorenal syndrome is a rare but severe complication of advanced liver disease. Which of the following laboratory findings is most characteristic of type 1 hepatorenal syndrome?",
+        "options": "A. Elevated urinary sodium B. Dilutional hyponatremia C. Elevated serum creatinine D. Low urinary osmolality",
+        "answer": "B"
+    },
+    {
+        "question": "Which diagnostic test is commonly used to detect nodular liver in cirrhosis?",
+        "options": "A. Blood tests B. Liver biopsy C. Ultrasound/CT D. Endoscopy",
+        "answer": "C"
+    },
+    {
+        "question": "What is a key symptom of hepatic encephalopathy?",
+        "options": "A. Jaundice B. Confusion C. Hypertension D. Hyperglycemia",
+        "answer": "B"
+    },
+    {
+        "question": "What histological feature is characteristic of chronic interstitial hepatitis?",
+        "options": "A. Extensive hepatocellular necrosis B. Prominent fibrous tissue involvement C. Absence of inflammation D. Normal liver architecture",
+        "answer": "B"
+    },
+    {
+        "question": "What is the most common cause of gallbladder perforation?",
+        "options": "A. Abdominal trauma B. Gallstones C. Vasculitis D. Iatrogenic procedures",
+        "answer": "B"
+    },
+    {
+        "question": "In the management of Type 1 hepatorenal syndrome (HRS), albumin is administered primarily to address which of the following pathophysiological mechanisms?",
+        "options": "A. To improve renal perfusion B. To counteract splanchnic vasodilation C. To increase urinary sodium excretion D. To reduce systemic inflammation",
+        "answer": "B"
+    },
+    {
+        "question": "A patient with untreated, prolonged gallbladder obstruction due to a large impacted stone presents with worsening right upper quadrant pain and fever. Which of the following complications is most likely to develop in this setting?",
+        "options": "A. Mirizzi syndrome (chronic complication from extrinsic bile duct compression) B. Empyema or gangrene of the gallbladder (acute infective/septic complications) C. Ascending cholangitis (biliary tree infection) D. Acute pancreatitis (gallstone migration)",
+        "answer": "B"
+    },
+    {
+        "question": "A patient with a history of biliary disease presents with recurrent episodes of vomiting. On examination, the vomitus appears bilious. What is the primary symptom of a choledochogastric fistula in this patient? What additional diagnostic finding would most strongly support this diagnosis?",
+        "options": "A. Jaundice B. Bilious vomiting C. Abdominal pain D. Weight loss E. Presence of bile in gastric aspirate",
+        "answer": "B"
+    },
+    {
+        "question": "What is hepatomegaly primarily considered in clinical practice?",
+        "options": "A. A disease B. A clinical sign C. A genetic disorder D. A bacterial infection",
+        "answer": "B"
+    },
+    {
+        "question": "A patient is evaluated for risk factors of pancreatic adenocarcinoma. Which of the following is NOT a well-established risk factor for this malignancy?",
+        "options": "A. Smoking B. Chronic pancreatitis C. New-onset diabetes in individuals ≥50 years D. Family history of breast cancer",
+        "answer": "D"
+    },
+    {
+        "question": "A patient with metastatic islet cell tumors presents with symptoms of hormone hypersecretion. Which of the following is a first-line treatment option?",
+        "options": "A. Surgical resection only B. Somatostatin analogs C. Antibiotic therapy D. Physical therapy E. Chemotherapy F. Targeted therapy",
+        "answer": "B",
+        "rationale": "Somatostatin analogs (e.g., octreotide) are first-line for symptom control in metastatic islet cell tumors due to their ability to inhibit hormone secretion. While chemotherapy (E) and targeted therapy (F) may be used in advanced cases, they are not first-line. Surgical resection (A) is rarely curative in metastatic disease."
+    },
+    {
+        "question": "A woman with Primary Biliary Cirrhosis (PBC) presents with compensated cirrhosis and small esophageal varices on endoscopy. She is currently on ursodeoxycholic acid (UDCA) but is not yet a candidate for liver transplantation. What is the recommended long-term strategy to prevent esophageal varices bleeding in this patient?",
+        "options": "A. Ursodeoxycholic acid (UDCA) monotherapy B. Endoscopic variceal ligation and non-selective beta-blockers C. Antibiotic prophylaxis D. Vitamin K supplementation",
+        "answer": "B"
+    },
+    {
+        "question": "What is a common manifestation of advanced pancreatic head cancer?",
+        "options": "A. Increased appetite B. Obstructive jaundice C. Weight gain D. Improved energy levels",
+        "answer": "B"
+    },
+    {
+        "question": "In a male after laparoscopic cholecystectomy, the specimen is sent for histopathology which shows carcinoma gallbladder stage T1a. What is the most appropriate management in this patient?\n ",
+        "options": "A. Conservative and follow up.\n B. Extended cholecystectomy\n C. Simple cholecystectomy\n D. Radiotherapy",
+        "answer": "C"
+    },
+    {
+        "question": "What is a primary diagnostic tool for hepatomegaly with splenomegaly?",
+        "options": "A. Electrocardiogram (ECG) B. Ultrasound/CT imaging C. Pulmonary function test D. Skin biopsy",
+        "answer": "B"
+    },
+    {
+        "question": "A patient with biopsy-proven nonalcoholic steatohepatitis (NASH) and advanced fibrosis is being evaluated for treatment. Which of the following medications is most appropriate for this high-risk case of Non-Alcoholic Fatty Liver Disease (NAFLD)?",
+        "options": "A. Vitamin E B. Pioglitazone C. Statins D. Antihistamines",
+        "answer": "A"
+    },
+    {
+        "question": "Which imaging technique is commonly used in the diagnosis of pancreatic cancer?",
+        "options": "A. X-ray B. Ultrasound C. CT/MRI D. PET scan",
+        "answer": "C"
+    },
+    {
+        "question": "A male child with coarse facial features, macroglossia, thick lips presents with copious mucous discharge from nose at 10 months of age. The child was absolutely normal at bih. On examination he was found to have enlarged Liver and Spleen. Diagnosis is:\n ",
+        "options": "A. Hurler's syndrome\n B. Beckwith-Weidman syndrome\n C. Hypothyroidism\n D. Proteus syndrome",
+        "answer": "A"
+    },
+    {
+        "question": "A patient with a history of chronic bile duct obstruction presents with fatigue and gastrointestinal complaints. Which of the following clinical manifestations is most characteristic of secondary biliary cirrhosis during early disease progression?",
+        "options": "A. Abdominal pain B. Jaundice C. Pruritus D. Dark urine E. Weight loss",
+        "answer": "B"
+    },
+    {
+        "question": "A patient presents with jaundice and abdominal pain. Imaging reveals a mass. What is the key anatomical difference between secondary malignant neoplasm of the gallbladder and secondary malignant neoplasm of the biliary tract that would guide further diagnostic workup?",
+        "options": "A. The gallbladder neoplasm targets the bile ducts B. The biliary tract neoplasm primarily affects the gallbladder wall C. The gallbladder neoplasm primarily affects the gallbladder wall, while the biliary tract neoplasm targets the bile ducts D. Both conditions primarily affect the bile ducts but differ in their metastatic origins",
+        "answer": "C"
+    },
+    {
+        "question": "Which intervention may be required in severe cases of alcoholic chronic pancreatitis?",
+        "options": "A. Chemotherapy B. Endoscopic or surgical interventions C. Radiation therapy D. Physical therapy",
+        "answer": "B"
+    },
+    {
+        "question": "A patient presents with acute liver failure characterized by rapid clinical deterioration. Which of the following findings is most specific for Acute Yellow Atrophy of the Liver?",
+        "options": "A. Gradual onset of jaundice over weeks B. Marked reduction in liver size (shrinkage) on imaging C. Moderately prolonged INR (1.5-2.5) D. Transient mild confusion without coma",
+        "answer": "B"
+    },
+    {
+        "question": "What surgical intervention may be required in severe cases of central hemorrhagic necrosis of the liver?",
+        "options": "A. Hepatic artery embolization or partial hepatectomy B. Cholecystectomy C. Appendectomy D. Gastric bypass surgery",
+        "answer": "A"
+    },
+    {
+        "question": "What is a common symptom of a pancreatic pseudocyst?",
+        "options": "A. Persistent epigastric pain radiating to the back B. High fever C. Severe headache D. Chest pain",
+        "answer": "A"
+    },
+    {
+        "question": "Which of the following is a key component of treatment for alcoholic hepatitis?",
+        "options": "A. Antiviral therapy B. Absolute alcohol cessation C. Insulin therapy D. Chemotherapy",
+        "answer": "B"
+    },
+    {
+        "question": "Which of the following is NOT a primary cause of liver fibrosis with cirrhosis?",
+        "options": "A. Chronic viral hepatitis (HBV, HCV) B. Alcohol abuse C. Genetic conditions like hemochromatosis D. Acute bacterial infections",
+        "answer": "D"
+    },
+    {
+        "question": "Which of the following is a common symptom of pericholecystitis?",
+        "options": "A. Left lower quadrant pain B. Persistent right upper quadrant pain radiating to the back C. Chest pain D. Headache",
+        "answer": "B"
+    },
+    {
+        "question": "A male presents with painless jaundice, unintentional weight loss, and clay-colored stools. Which of the following is the most likely underlying cause of his symptoms?",
+        "options": "A. Epigastric pain radiating to the back (chronic pancreatitis) B. Obstructive jaundice (pancreatic head neoplasm) C. Hematemesis (gastric ulcer) D. Dysuria (urinary tract infection)",
+        "answer": "B",
+        "explanation": "Painless jaundice with weight loss and acholic stools is a classic triad for pancreatic head neoplasms, which often obstruct the common bile duct. Option A suggests chronic pancreatitis (typically painful), C suggests upper GI bleeding, and D is unrelated to biliary pathology."
+    },
+    {
+        "question": "What is a key symptom of traumatic rupture of the liver?",
+        "options": "A. Left shoulder pain B. Right shoulder pain (Kehr’s sign) C. Neck stiffness D. Leg weakness",
+        "answer": "B"
+    },
+    {
+        "question": "What is the primary cause of Primary Biliary Cholangitis (PBC)?",
+        "options": "A. Viral infection B. Autoimmune attack on intrahepatic bile ducts C. Prolonged alcohol consumption D. Genetic mutation",
+        "answer": "B"
+    },
+    {
+        "question": "What is a key distinction between uncomplicated cholecystitis and gallbladder perforation?",
+        "options": "A. Presence of gallstones B. Structural wall breach with peritoneal contamination C. Mild symptoms D. No need for surgical intervention",
+        "answer": "B"
+    },
+    {
+        "question": "Which subtype of Chronic Pancreatitis is marked by extensive collagen deposition and often secondary to alcohol or genetic causes?",
+        "options": "A. Chronic Interstitial Pancreatitis B. Chronic Cystic Pancreatitis C. Chronic Fibrosing Pancreatitis D. Chronic Autoimmune Pancreatitis",
+        "answer": "C"
+    },
+    {
+        "question": "Which of the following statements concerning hepatitis infection in pregnancy is true?:\n ",
+        "options": "A. Hepatitis B core antigen status is the most sensitive indicator of positive vertical transmission of disease\n B. Hepatitis B is the most common form of hepatitis after blood transfusion\n C. The proper treatment of infants born to infected mothers includes the administration of hepatitis B immune globulin as well as vaccine\n D. Patients who develop chronic active hepatitis should undergo MTP",
+        "answer": "C"
+    },
+    {
+        "question": "An asymptomatic patient undergoes abdominal imaging for an unrelated issue, and a benign liver mass is incidentally discovered. Which of the following is the most likely cause of this finding?",
+        "options": "A. Chronic hepatitis C B. Cirrhosis C. Hepatic hemangioma D. Aflatoxin exposure",
+        "answer": "C"
+    },
+    {
+        "question": "Hepatoblastoma is associated with mutations in the Wnt pathway, leading to aberrant activation of β-catenin. In patients with hepatoblastoma harboring Wnt pathway mutations, what is a potential novel therapeutic target?",
+        "options": "A. β-catenin inhibitors B. Immunotherapy C. Radiation therapy D. Surgical resection",
+        "answer": "A"
+    },
+    {
+        "question": "A patient presents with fever, abdominal pain, and elevated inflammatory markers. Which diagnostic tool is most commonly used to identify portal vein phlebitis?",
+        "options": "A. Doppler ultrasound B. Contrast-enhanced CT/MRI C. Liver function tests D. Abdominal X-ray",
+        "answer": "B"
+    },
+    {
+        "question": "A patient presents with abdominal pain and jaundice. Which of the following symptoms is most commonly associated with bile duct neoplasms?",
+        "options": "A. Abdominal pain B. Jaundice C. Weight loss D. Hematuria",
+        "answer": "A"
+    },
+    {
+        "question": "Which of the following environmental or genetic factors is NOT associated with the etiology of hepatoblastoma in children?",
+        "options": "A. Low birth weight B. Familial syndromes (e.g., Beckwith-Wiedemann syndrome) C. Maternal smoking during pregnancy D. Fetal alcohol exposure",
+        "answer": "C. Maternal smoking is not directly linked to hepatoblastoma, whereas low birth weight, familial syndromes, and fetal alcohol exposure are known risk factors."
+    },
+    {
+        "question": "A child has bilirubin of 4 mg. Conjugated bilirubin and alkaline phosphatase are normal, bile salts and bile in urine are absent. However urobilinogen in urine is raised. What is the likely diagnosis –\n ",
+        "options": "A. Obstructive jaundice\n B. Rotor's syndrome\n C. Biliary cholestasis\n D. Hemolytic jaundice",
+        "answer": "D"
+    },
+    {
+        "question": "Two hours following an elective cholecystectomy, a 43-year-old woman has fever and chills. The patient received cephalexin for antibiotic prophylaxis and one unit of packed red blood cells during the procedure. She underwent a hysterectomy 9 years ago for leiomyomata uteri. She has a 5-year history of hypertension treated with lisinopril. Her temperature is 39.5°C (102.3°F), pulse is 90/min, respirations are 18/min, and blood pressure is 125/90 mm Hg. Examination shows a mildly tender abdominal wound without erythema. The lungs are clear to auscultation. Cardiac examination shows no abnormalities. She had a Foley catheter and peripheral line access placed at the time of the procedure. Which of the following is the most likely cause of this patient's symptoms?\n ",
+        "options": "A. Adverse effect of medication\n B. Malignant hyperthermia\n C. Surgical site infection\n D. Urinary tract infection\n E. Transfusion reaction",
+        "answer": "E"
+    },
+    {
+        "question": "In advanced alcoholic cirrhosis of the liver, which of the following is a characteristic feature?",
+        "options": "A. Reversible fibrosis B. Progressive nodular regeneration and fibrosis C. Portal hypertension D. Steatosis without inflammation",
+        "answer": "B"
+    },
+    {
+        "question": "What is the primary cause of both acute and chronic cholecystitis?",
+        "options": "A. Bacterial infection B. Gallstones C. Viral infection D. Autoimmune disease",
+        "answer": "B"
+    },
+    {
+        "question": "A patient presents with cholestatic liver disease. Which of the following features is most likely to distinguish Pericholangitis from Primary Cholangitis?",
+        "options": "A. Association with systemic diseases such as inflammatory bowel disease B. Autoimmune markers such as anti-mitochondrial antibodies C. Predominance in middle-aged women with fatigue and pruritus D. Improvement with antibiotic therapy targeting bacterial overgrowth",
+        "answer": "A"
+    },
+    {
+        "question": "What biomarker is often tested for hepatocellular carcinoma?",
+        "options": "A. C-reactive protein B. Alpha-fetoprotein C. Prostate-specific antigen D. Hemoglobin A1c",
+        "answer": "B"
+    },
+    {
+        "question": "What is the prognosis for most benign pancreatic neoplasms post-resection?",
+        "options": "A. Poor B. Favorable C. Uncertain D. High recurrence risk",
+        "answer": "B"
+    },
+    {
+        "question": "Which hepatoprotective medication is specifically mentioned for acetaminophen toxicity in toxic liver disease?",
+        "options": "A. Metformin B. N-acetylcysteine C. Ibuprofen D. Prednisone",
+        "answer": "B"
+    },
+    {
+        "question": "A patient presents with chronic right upper quadrant pain and recurrent episodes of cholangitis. Imaging reveals retained gallstones in the cystic duct stump following a previous cholecystectomy. Which intervention is most appropriate for definitive management of this condition?",
+        "options": "A. Open cholecystectomy B. Endoscopic retrograde cholangiopancreatography (ERCP) with stone extraction C. Long-term antibiotic prophylaxis D. Percutaneous drainage of the cystic duct stump",
+        "answer": "B"
+    },
+    {
+        "question": "A male with a history of chronic liver disease presents with dyspnea and hypoxemia. Hepatopulmonary Syndrome (HPS) is characterized by intrapulmonary vascular dilatations in the setting of liver disease. What is the primary underlying cause of his condition?",
+        "options": "A. Chronic liver disease leading to vascular changes B. Genetic predisposition C. Acute liver trauma D. Primary pulmonary vascular disease",
+        "answer": "A"
+    },
+    {
+        "question": "Which organ is primarily affected in Hepatitis B Virus-Associated Nephritis?",
+        "options": "A. Liver B. Kidneys C. Spleen D. Pancreas",
+        "answer": "B"
+    },
+    {
+        "question": "A patient presents with abdominal pain and a liver mass on imaging. Which diagnostic method confirms an inflammatory pseudotumor of the liver?",
+        "options": "A. Serum markers B. Imaging C. Biopsy D. Endoscopic ultrasound",
+        "answer": "C"
+    },
+    {
+        "question": "A patient presents with recurrent episodes of severe right upper quadrant pain lasting 30 minutes, associated with nausea. Imaging confirms gallstones without evidence of acute cholecystitis. How should this patient be managed?",
+        "options": "A. Immediate surgery for acute cholecystitis B. Pain relief with NSAIDs and elective cholecystectomy C. Long-term dietary restrictions D. Observation and follow-up without intervention",
+        "answer": "B"
+    },
+    {
+        "question": "What is a common cause of chronic liver failure related to chronic environmental exposure to heavy metals? (Focus on rare diseases linked to environmental exposure)",
+        "options": "A. Hepatitis B B. Chronic exposure to heavy metals like lead or mercury C. Autoimmune diseases D. Metabolic disorders",
+        "answer": "B"
+    },
+    {
+        "question": "A patient with a history of chronic lobular hepatitis reports episodic yellowing of the skin and eyes. Which of the following symptoms is most consistent with this condition?",
+        "options": "A. Persistent fever B. Episodic jaundice C. Recurrent abdominal pain D. Fatigue and malaise",
+        "answer": "B"
+    },
+    {
+        "question": "Which of the following treatments is commonly used for Autoimmune Hepatitis (AIH)?",
+        "options": "A. Antiviral drugs B. Immunosuppressants C. Antibiotics D. Antifungal drugs",
+        "answer": "B"
+    },
+    {
+        "question": "Which of the following is the most likely route of transmission for acute viral hepatitis with mixed infections involving hepatitis B and C viruses?",
+        "options": "A. Exposure to contaminated food B. Exposure to contaminated blood or bodily fluids C. Consumption of contaminated water D. Occupational exposure to chemicals",
+        "answer": "B"
+    },
+    {
+        "question": "A patient with a history of recurrent biliary colic presents with jaundice and epigastric pain. Imaging reveals inflammation-induced stricture of the duodenal papilla. Which condition is most likely responsible?",
+        "options": "A. Stenosis of sphincter of Oddi B. Stenosing papillitis of the duodenum C. Pancreatic pseudocyst D. Biliary atresia",
+        "answer": "B"
+    },
+    {
+        "question": "A patient with a history of long-term acetaminophen use presents with fatigue and mild hepatomegaly. Liver biopsy reveals chronic persistent hepatitis due to toxic liver disease. Which laboratory finding is most likely to be observed in this patient?",
+        "options": "A. Decreased ALT/AST levels B. Elevated ALT/AST levels C. Normal bilirubin levels D. Elevated alkaline phosphatase levels",
+        "answer": "B"
+    },
+    {
+        "question": "A 38-year-old woman is brought to the emergency department because of three 1-hour episodes of severe, sharp, penetrating abdominal pain in the right upper quadrant. During these episodes, she has had nausea and vomiting. She has no diarrhea, dysuria, or hematuria and is asymptomatic between episodes. She has hypertension and hyperlipidemia. Seven years ago, she underwent resection of the terminal ileum because of severe Crohn's disease. She is 155 cm (5 ft 2 in) tall and weighs 79 kg (175 lb); BMI is 32 kg/m2. Her temperature is 36.9°C (98.5°F), pulse is 80/min, and blood pressure is 130/95 mm Hg. There is mild scleral icterus. Cardiopulmonary examination shows no abnormalities. The abdomen is soft, and there is tenderness to palpation of the right upper quadrant without guarding or rebound. Bowel sounds are normal. The stool is brown, and test for occult blood is negative. Laboratory studies show:\nHemoglobin 12.5 g/dL\nLeukocyte count 9,500 mm3\nPlatelet count 170,000 mm3\nSerum\nTotal bilirubin 4.1 mg/dL\nAlkaline phosphatase 348 U/L\nAST 187 U/L\nALT 260 U/L\nAbdominal ultrasonography shows a normal liver, a common bile duct caliber of 10 mm (normal < 6 mm) and a gallbladder with multiple gallstones and no wall thickening or pericholecystic fluid. Which of the following is the most likely cause of these findings?\"\n ",
+        "options": "A. Acute hepatitis A\n B. Choledocholithiasis\n C. Autoimmune hepatitis\n D. Cholecystitis\n E. Pancreatitis\n\"",
+        "answer": "B"
+    },
+    {
+        "question": "A patient presents with hepatomegaly and splenomegaly accompanied by fatigue and early satiety. What is the most critical step in their initial management?",
+        "options": "A. Monitoring without intervention for 6 months B. Early intervention with diagnostic workup (e.g., imaging, labs) C. Immediate referral to a hepatologist D. Symptomatic treatment only (e.g., pain relief)",
+        "answer": "B"
+    },
+    {
+        "question": "What is the primary cause of obstructive cholangitis?",
+        "options": "A. Autoimmune conditions B. Bacterial infection C. Physical blockage (e.g., tumors, stones) D. Drug-induced cholestasis",
+        "answer": "C"
+    },
+    {
+        "question": "How does pericholecystitis differ from isolated cholecystitis in terms of management?",
+        "options": "A. Requires shorter antibiotic therapy B. May require extended antibiotic therapy C. Does not require imaging D. Can be managed with oral antibiotics alone",
+        "answer": "B"
+    },
+    {
+        "question": "What is the primary cause of chronic passive congestion of the liver?",
+        "options": "A. Left-sided heart failure B. Right-sided heart failure C. Viral hepatitis D. Alcoholic liver disease",
+        "answer": "B"
+    },
+    {
+        "question": "A woman presents with acute abdominal pain and jaundice. Imaging reveals bile duct perforation. What is the most likely cause?",
+        "options": "A. Gallstones B. Trauma C. Iatrogenic injury during surgery D. Infections like cholangitis",
+        "answer": "A (Gallstones are the most common cause due to obstruction and increased pressure in the biliary system.)"
+    },
+    {
+        "question": "A patient presents with right upper quadrant pain and elevated liver enzymes. Which imaging technique is most appropriate for the initial evaluation of a suspected liver mass?",
+        "options": "A. X-ray B. Ultrasound C. CT scan D. MRI",
+        "answer": "B"
+    },
+    {
+        "question": "A male with a history of recurrent abdominal trauma presents with signs of portal hypertension (ascites, splenomegaly). Imaging reveals intrahepatic vascular shunts. Given the rarity of this condition, which of the following is the most likely acquired cause of these shunts and the underlying mechanism?",
+        "options": "A. Genetic defect (congenital malformation of hepatic vasculature) B. Trauma (mechanical disruption of hepatic parenchyma and vasculature) C. Parasitic infection (Schistosoma-induced granulomatous inflammation) D. Chronic inflammation (cirrhosis-induced sinusoidal remodeling)",
+        "answer": "B"
+    },
+    {
+        "question": "A 60-year-old man with a long-standing history of chronic hepatitis C infection comes to the emergency department because of abdominal distention and scleral icterus for the past month. His heart rate is 76/min, respiratory rate is 14/min, temperature is 36.0°C (96.8°F), and blood pressure is 110/86 mm Hg. Physical examination show signs suggestive of liver cirrhosis. Which of the following signs is a direct result of hyperestrinism in cirrhotic patients?\n ",
+        "options": "A. Coagulopathy\n B. Gynecomastia\n C. Jaundice\n D. Lower limb swelling\n E. Caput medusae",
+        "answer": "B"
+    },
+    {
+        "question": "A patient with Acute hepatitis B with delta-agent presents with confusion, asterixis, and markedly elevated liver enzymes. What is the primary clinical distinction between this patient's condition and Acute hepatitis B with delta-agent without hepatic coma?",
+        "options": "A. Duration of symptoms B. Severity of liver failure C. Mode of transmission D. Response to antiviral therapy",
+        "answer": "B"
+    },
+    {
+        "question": "A patient is diagnosed with carcinoma in situ of the liver during a routine screening. What is the most likely prognosis if the condition is detected at this early stage (e.g., before metastasis)?",
+        "options": "A. Poor, with a high likelihood of progression to invasive cancer B. Moderate, with a significant risk of recurrence C. High curability, with a low risk of progression D. Variable, depending on the specific organ and treatment approach",
+        "answer": "C"
+    },
+    {
+        "question": "A patient presents with mild transaminitis (ALT 120 U/L, AST 98 U/L) and nonspecific fatigue. Liver biopsy reveals nonspecific reactive hepatitis. Which of the following is the most common underlying cause of this condition?",
+        "options": "A. Autoimmune disorders B. Viral hepatitis C. Systemic bacterial infections D. Chronic alcohol use",
+        "answer": "B"
+    },
+    {
+        "question": "A woman presents with right upper quadrant discomfort and is found to have a 6 cm hepatic hemangioma on imaging. She reports intermittent pain exacerbated by movement. Which of the following is the most appropriate management for this symptomatic benign liver mass?",
+        "options": "A. Chemotherapy B. Radiation therapy C. Surgical resection D. Targeted therapy E. Observation F. Transarterial embolization",
+        "answer": "C"
+    },
+    {
+        "question": "A 55-year-old man with chronic hepatitis B virus infection comes to the physician because of generalized fatigue and a 5.4 kg (12 lb) weight loss over the past 4 months. Physical examination shows hepatomegaly. Laboratory studies show an α-fetoprotein concentration of 380 ng/ml (N < 10 ng/mL). A CT scan of the abdomen with contrast shows a solitary mass in the left lobe of the liver that enhances in the arterial phase. Which of the following is the most likely underlying pathogenesis of this patient's current condition?\n ",
+        "options": "A. Overexpression of secretory hepatitis antigen\n B. Intracellular accumulation of misfolded protein\n C. Gain of function mutation of a proto-oncogene\n D. Viral cytotoxin-induced cellular dysplasia\n E. Integration of foreign DNA into host genome\n\"",
+        "answer": "E"
+    },
+    {
+        "question": "What is the primary cause of acute cholecystitis in 90% of cases?",
+        "options": "A. Bacterial infections B. Gallstones obstructing the cystic duct C. Ischemia D. Systemic conditions like vasculitis",
+        "answer": "B"
+    },
+    {
+        "question": "What is the primary cause of chronic cholecystitis?",
+        "options": "A. Bacterial infection B. Recurrent gallstones obstructing the cystic duct C. Autoimmune inflammation D. Viral infection",
+        "answer": "B"
+    },
+    {
+        "question": "A 23-year-old man comes to the clinic for yellowing of his eyes. The patient has been relatively healthy and just recently started “intermittent fasting” to try to lose weight. He recalls a similar episode 4 years ago when he was recovering from an emergency appendectomy. The patient denies smoking but endorses an episode of binge drinking 2 days ago. He is sexually active with both men and women. His physical examination is unremarkable besides scleral icterus. What is the most likely explanation for this patient’s symptoms?\n ",
+        "options": "A. Autoimmune-mediated fibrosis of biliary tract\n B. Chronic viral infection of the liver\n C. Decreased activity of UDP-glucuronosyltransferase\n D. Defective bilirubin excretion\n E. Macrovesicular steatosis",
+        "answer": "C"
+    },
+    {
+        "question": "What is a key diagnostic feature of liver cancer on imaging?",
+        "options": "A. Hypovascular masses B. Hypervascular masses C. Cystic lesions D. Calcifications",
+        "answer": "B"
+    },
+    {
+        "question": "In the palliative care setting for a patient with malignant neoplasm of the tail of the pancreas, which of the following is the primary focus of multidisciplinary management?",
+        "options": "A. Surgical resection B. Symptom control, nutritional support, and palliative care C. Radiation therapy D. Chemotherapy only E. Early detection and screening",
+        "answer": "B"
+    },
+    {
+        "question": "A patient with Mirizzi Syndrome presents with worsening jaundice and right upper quadrant abdominal pain. Which of the following complications is most likely responsible for these symptoms?",
+        "options": "A. Secondary biliary cirrhosis B. Acute cholangitis C. Biliary fistula D. Gastric ulcer",
+        "answer": "B"
+    },
+    {
+        "question": "A patient with a history of long-term acetaminophen use presents with suspected toxic liver disease and chronic persistent hepatitis. Which of the following is the most common symptom in this condition?",
+        "options": "A. Severe abdominal pain B. Fatigue C. Mild jaundice D. Loss of appetite",
+        "answer": "B"
+    },
+    {
+        "question": "What is a potential complication of untreated Clonorchiasis?",
+        "options": "A. Hepatitis B. Cholangiocarcinoma C. Pancreatitis D. Gastric ulcer",
+        "answer": "B"
+    },
+    {
+        "question": "Which of the following symptoms is most characteristic of acute pancreatitis?",
+        "options": "A. Chest pain B. Severe epigastric pain radiating to the back C. Diarrhea D. Headache",
+        "answer": "B"
+    },
+    {
+        "question": "A patient presents with jaundice, and imaging reveals a biliary tumor. Which of the following best distinguishes proximal from distal biliary tumors in terms of resectability?",
+        "options": "A. Proximal tumors are always resectable B. Distal tumors are often unresectable C. Proximal tumors are often unresectable D. Distal tumors are less likely to cause early jaundice compared to proximal tumors",
+        "answer": "C"
+    },
+    {
+        "question": "Which of the following surgical management strategies is most specific to intrahepatic bile duct tumors compared to common bile duct tumors?",
+        "options": "A. Intrahepatic tumors require extensive biliary reconstruction B. Common bile duct lesions are typically managed with biliary stenting or resection without hepatectomy C. Intrahepatic tumors may necessitate hepatectomy",
+        "answer": "C"
+    },
+    {
+        "question": "What is the primary treatment approach for Acute Postprocedural Pancreatitis, Mild?",
+        "options": "A. Steroids B. Bowel rest and IV fluids C. Antibiotics D. Endoscopic drainage",
+        "answer": "B"
+    },
+    {
+        "question": "What is a key risk factor for intrahepatic bile duct cancer?",
+        "options": "A. Colorectal cancer B. Chronic bile duct inflammation C. Lung cancer D. Breast cancer",
+        "answer": "B"
+    },
+    {
+        "question": "A patient with acute hepatitis B presents with worsening jaundice and fatigue. Serologic testing confirms hepatitis D virus (HDV) coinfection. Which of the following treatments is specifically recommended for HDV in this setting, and what is the primary rationale for its use?",
+        "options": "A. Tenofovir (reduces HBV DNA replication) B. Entecavir (potent HBV suppression) C. Pegylated interferon-alpha (direct antiviral activity against HDV) D. Ribavirin (adjunctive therapy for HCV) E. Sofosbuvir (NS5B inhibitor for HCV) F. Lamivudine (older HBV nucleoside analog)",
+        "answer": "C"
+    },
+    {
+        "question": "Which of the following imaging techniques is critical for diagnosing benign bile duct neoplasms?",
+        "options": "A. CT scan B. MRI C. MRCP D. X-ray",
+        "answer": "C"
+    },
+    {
+        "question": "What is the primary cause of alcoholic chronic pancreatitis?",
+        "options": "A. Genetic predisposition B. Prolonged excessive alcohol consumption C. Viral infection D. Autoimmune disease",
+        "answer": "B"
+    },
+    {
+        "question": "A patient presents with acute hepatitis due to toxic liver disease. What is the first step in treatment?",
+        "options": "A. Immediate cessation of the toxic agent B. Initiation of N-acetylcysteine therapy C. Liver transplantation D. Supportive care with hydration",
+        "answer": "A",
+        "explanation": "The most critical initial step in toxic liver disease is stopping exposure to the causative agent to prevent further liver injury. While N-acetylcysteine (B) and supportive care (D) may be part of management, they are secondary to eliminating the toxin. Liver transplantation (C) is reserved for irreversible liver failure."
+    },
+    {
+        "question": "A male presents with severe epigastric pain radiating to the back, nausea, and vomiting. Which diagnostic marker is most indicative of idiopathic acute pancreatitis?",
+        "options": "A. Elevated serum amylase/lipase (≥3x normal) B. Elevated serum creatinine C. Normal serum calcium levels D. Decreased serum albumin",
+        "answer": "A"
+    },
+    {
+        "question": "In a patient presenting with an incidentally discovered liver mass, what is a key histological difference between benign liver neoplasms and benign bile duct neoplasms? Although both conditions are rare, understanding their differences is crucial for accurate diagnosis and management.",
+        "options": "A. Liver neoplasms are always symptomatic B. Bile duct neoplasms are hormone-related C. Liver neoplasms primarily affect hepatocytes D. Bile duct neoplasms often present with obstructive jaundice",
+        "answer": "C"
+    },
+    {
+        "question": "A patient presents with right upper quadrant pain and fever. Which imaging modality is most important for differentiating hydrops from mucocele of the gallbladder based on anatomical detail?",
+        "options": "A. MRI B. X-ray C. Ultrasound D. CT E. PET scan",
+        "answer": "C"
+    },
+    {
+        "question": "A female with a known history of systemic lupus erythematosus (SLE) presents with fatigue, jaundice, and elevated liver enzymes (AST 250 U/L, ALT 300 U/L). Which of the following features most reliably distinguishes Lupus Hepatitis from Autoimmune Hepatitis (AIH) in this patient?",
+        "options": "A. Presence of anti-smooth muscle antibodies (ASMA) B. Association with systemic lupus erythematosus (SLE) C. Rapid normalization of liver enzymes with corticosteroids D. Detection of hepatitis B surface antigen (HBsAg)",
+        "answer": "B"
+    },
+    {
+        "question": "A patient develops a hepatic duct-intestinal fistula (an abnormal connection between the hepatic duct and intestine, often due to surgical trauma) following abdominal surgery. What is the most likely immediate complication?",
+        "options": "A. Bile peritonitis B. Sepsis C. Hemorrhage D. Intestinal obstruction",
+        "answer": "A"
+    },
+    {
+        "question": "Which syndrome is most frequently associated with gastrinomas?",
+        "options": "A. Zollinger-Ellison syndrome B. Cushing's syndrome C. Addison's disease D. Graves' disease",
+        "answer": "A"
+    },
+    {
+        "question": "What is a distinguishing feature of Clonorchiasis compared to other liver parasitic diseases?",
+        "options": "A. It primarily affects the liver parenchyma B. It is transmitted through contaminated water C. It specifically targets the biliary system D. It is caused by a bacterial infection",
+        "answer": "C"
+    },
+    {
+        "question": "A male with poorly controlled diabetes mellitus presents with fever, right upper quadrant pain, and elevated inflammatory markers. Imaging reveals a solitary liver abscess. Which of the following pathogens is most commonly implicated in this clinical scenario?",
+        "options": "A. Klebsiella pneumoniae B. Escherichia coli C. Streptococcus spp. D. Staphylococcus aureus",
+        "answer": "A"
+    }
+]

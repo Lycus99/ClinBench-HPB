@@ -1,0 +1,1602 @@
+[
+    {
+        "question": "在急性肝功能衰竭的治疗中，以下哪项是需要严格限制的？",
+        "options": "A. 脂肪\nB. 蛋白质\nC. 热量\nD. 牛奶\nE. 糖",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位75岁男性患者，长期患有慢性支气管炎和乙型肝炎。最近两个月出现下肢水肿、尿量减少和气短症状。体检显示颈静脉怒张，肝脏在肋下2cm可触及，有少量腹水和下肢水肿。实验室检查显示转氨酶轻度升高。请问以下哪项临床表现最能帮助区分右心衰竭和肝硬化？",
+        "options": "A. 肝脏肿大\nB. 下肢水肿\nC. 腹腔积液\nD. 颈静脉怒张\nE. 转氨酶增高",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在原发性肝癌的诊断中，以下哪项是最关键的指标？",
+        "options": "A.放射性核素肝扫描显示占位性病变\nB.右膈肌升高及运动受限\nC.A型超声波检查肝区有束状波\nD.碱性磷酸酶、γ-谷氨酰转肽酶水平升高\nE.甲胎蛋白持续阳性",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位58岁男性患者，近半年出现进行性贫血、消瘦和乏力，偶尔感到右腹隐痛，但无腹泻。体检发现右中腹部可触及肿块，肠鸣音活跃。若需进行手术治疗，术前最重要的准备工作是",
+        "options": "A. 纠正营养\nB. 肠道准备\nC. 心肺功能检查\nD. 肝肾功能检查\nE. 心理准备",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在原发性肝癌的发病机制中，以下哪个因素被认为是最主要的诱因？",
+        "options": "A. 饮用水污染\nB. 病毒性肝炎\nC. 黄曲霉毒素\nD. 肝硬化\nE. 寄生虫",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在急性重型肝炎的病理变化中，以下哪一项描述是不正确的？",
+        "options": "A. 肝细胞广泛坏死\nB. 肝窦扩张充血及出血\nC. 网状支架塌陷\nD. 淋巴细胞及巨噬细胞浸润\nE. 可见明显的肝细胞再生结节",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在以下药物中，哪一种不会导致急性胰腺炎的发生？",
+        "options": "A.氢氧化铝\nB.乙醇（酒精）\nC.硫唑嘌呤\nD.氢氯噻嗪\nE.促肾上腺皮质激素",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在原发性肝癌的相关描述中，以下哪一项是错误的？",
+        "options": "A. 肝癌可以起源于肝细胞\nB. 乙型肝炎病毒是肝癌的直接致病因素\nC. 胆汁性肝硬化与肝癌的发生没有关联\nD. 肝癌也可以起源于肝内胆管细胞\nE. 黄曲霉毒素的暴露可能与肝癌的发病有关",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "一位66岁的女性患者因长期肝区不适、食欲减退、恶心呕吐等症状被诊断为肝癌。家属担心患者无法承受病情真相，要求医生保密。当实习医生被患者询问病情时，应如何回应最为妥当？",
+        "options": "A. 如实告知患者所有病情信息\nB. 坚持患者有权知晓真实病情，不应隐瞒\nC. 出于对患者心理承受能力的考虑，暂时隐瞒真实病情\nD. 建议患者向家属询问病情详情\nE. 以诚实守信为原则，向患者坦白病情",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位50岁男性患者，因右中上腹疼痛伴恶心、呕吐1天，症状加重并伴有腹胀12小时前来就诊。患者体型肥胖，体温38.9℃，呼吸频率30次/分，心率120次/分，血压110/80mmHg。体检发现全腹胀，伴有压痛、反跳痛及肌紧张，移动性浊音阳性。实验室检查显示血淀粉酶1000索氏单位，白细胞计数20×10^9/L，血钙水平降低。根据这些临床表现和检查结果，最可能的诊断是（）。",
+        "options": "A.急性水肿性胰腺炎\nB.急性腹膜炎\nC.急性胃肠炎\nD.出血坏死性胰腺炎\nE.胃溃疡穿孔",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在肝硬化腹水合并功能性肾衰竭的患者中，以下哪一项不是常见的临床表现？",
+        "options": "A.少尿或无尿\nB.尿钠低\nC.自发性氮质血症\nD.稀释性低钠血症\nE.肾小管缺血性坏死",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝胆外科手术中，胆管梗阻的定位通常分为哪几个关键区域？",
+        "options": "A.肝门段\nB.胰腺段\nC.胰上段\nD.壶腹段",
+        "answer": "ABCD",
+        "answer_format": "MultipleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在急性胆囊炎的临床表现中，哪一项描述是不正确的？",
+        "options": "A. 进食高脂肪食物后易诱发症状\nB. 右上腹出现持续性疼痛，并伴有阵发性加剧\nC. 疼痛通常向右侧肩部或背部放射\nD. 检查时墨菲征呈阳性反应\nE. 大多数患者会出现黄疸症状",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位38岁男性患者，出现右上腹疼痛、寒战、高热和黄疸症状已持续1天。体检显示体温高达39.6℃，血压为83/60mmHg，皮肤和巩膜明显黄染，右上腹及剑突下区域有压痛，并可触及肿大的胆囊。血常规检查显示白细胞计数为26×109/L。根据这些临床表现，最可能的诊断是（）。",
+        "options": "A.急性坏死性胰腺炎\nB.胆囊穿孔\nC.急性化脓性胆囊炎\nD.急性梗阻性化脓性胆管炎\nE.肝内胆管结石并发胆道感染",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "一位患者因肝脏疾病出现昏睡和精神错乱症状，此时最可能处于肝性脑病的哪个阶段？",
+        "options": "A.肝性脑病前驱期\nB.肝性脑病昏迷前期\nC.肝性脑病昏睡期\nD.肝性脑病昏迷期\nE.亚临床肝性脑病",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在以下哪种情况下，肝脏穿刺活检不推荐作为诊断手段？",
+        "options": "A. 肝粟粒状结核\nB. 肝硬化\nC. 慢性肝炎\nD. 血吸虫肝病\nE. 肝包虫病",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在急性化脓性胆囊炎的情况下，胆囊的哪个部位最容易发生穿孔？",
+        "options": "A. 胆囊颈部\nB. 胆囊壶腹部\nC. 胆囊前壁\nD. 胆囊底部\nE. 胆囊后壁",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在诊断细菌性肝脓肿时，以下哪种检查方法能够提供确诊依据？",
+        "options": "A. 血常规\nB. B超\nC. CT\nD. 放射线核素扫描\nE. 诊断性肝穿刺",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在病毒性肝炎的病理变化中，哪种类型的肝炎会表现出明显的碎片状坏死和桥接坏死？",
+        "options": "A. 急性黄疸型肝炎\nB. 亚急性重型肝炎\nC. 慢性持续性肝炎\nD. 慢性活动性肝炎\nE. 急性重型肝炎",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位50岁男性患者，近期出现上腹部闷胀感，黄疸逐渐加重，并伴有体重下降，持续2个月。体检发现患者消瘦，巩膜和皮肤明显黄染，腹部柔软，肝脏在肋下可触及2指，伴有触痛和轻叩痛，胆囊未触及肿大。患者既往无胆道疾病史。实验室检查显示尿胆红素显著升高（+++），而尿胆原未见增加。为明确诊断，应优先考虑进行哪项检查？",
+        "options": "A.静脉胆道造影\nB.口服法胆囊造影\nC.MRCP\nD.上消化道钡餐检查\nE.胃、十二指肠液检查",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "一位65岁男性患者，近3个月来出现进行性黄疸，伴有中上腹持续性胀痛，夜间平卧时疼痛加重，体重明显下降。体检发现患者呈慢性消耗性面容，皮肤和巩膜黄染，腹部平坦，Courvoisier征阳性。最可能的诊断是",
+        "options": "A. 肝门部胆管癌\nB. 壶腹癌\nC. 原发性肝癌\nD. 胃癌\nE. 胰头癌",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在临床实践中，哪种检测方法被认为是确诊胰岛素瘤的金标准？",
+        "options": "A. 监测空腹血糖水平低于2.2mmol/L\nB. 进行Wipple三联征评估\nC. 实施葡萄糖耐量试验\nD. 开展饥饿试验\nE. 测定血液中胰岛素水平",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在急性胰腺炎的发病机制中，以下哪项是关键的初始步骤？",
+        "options": "A.胰蛋白酶原转化成胰蛋白酶\nB.胰酶在胰腺管内被激活\nC.磷脂酶A2分解细胞膜的磷脂产生溶血卵磷脂\nD.弹力蛋白酶水解血管壁的弹力纤维\nE.激肽酶原水解为缓激肽",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位58岁的男性患者，既往有肝硬化病史，因大量呕血1天后出现神志恍惚、淡漠少言、口齿不清、嗜睡及昼睡夜醒等症状。护士应警惕患者可能出现了以下哪种并发症？",
+        "options": "A. 肺性脑病\nB. 肝性脑病\nC. 呼吸衰竭\nD. 肝癌\nE. 急性胰腺炎",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在以下疾病中，除原发性肝癌外，哪种疾病可能导致AFP水平超过500μg/L？",
+        "options": "A. 多囊肝\nB. 慢性肝炎\nC. 生殖腺胚胎瘤\nD. 肾脏胚胎瘤\nE. 肝硬化",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位55岁女性患者，有8年乙肝病史，最近一个月感到明显乏力，并伴有间断性的右上腹疼痛。体检显示血压为115/60mmHg，巩膜出现黄染，结膜无苍白，右上腹饱满且有压痛，无反跳痛及肌紧张，肝区叩痛阳性，移动性浊音阴性，双下肢无水肿。超声检查发现肝内结节呈均匀低回声伴中心点状增强。根据这些信息，最可能的诊断是什么？",
+        "options": "A.肝脓肿\nB.继发性肝癌\nC.活动性肝炎\nD.乙型病毒性肝炎复发\nE.原发性肝癌",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在肝胆外科手术中，了解胆总管的长度对于手术规划至关重要。根据解剖学研究，胆总管的平均长度是多少？",
+        "options": "A. 5~7cm\nB. 7~9cm\nC. 9~11cm\nD. 12~14cm\nE. 15~17cm",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在乙肝患者的实验室检查中，以下哪项指标的阳性结果最能提示患者具有较高的传染性？",
+        "options": "A. HBsAg\nB. HBsAb\nC. HBeAg\nD. 抗-HBe\nE. 抗HBc-IgM",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在门静脉高压症的诊断中，以下哪项临床表现最具特异性？",
+        "options": "A. 腹水\nB. 脾大脾亢\nC. 肝功能障碍\nD. 呕血或便血\nE. 食管下段、胃底静脉曲张",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝性脑病患者的护理中，以下哪项措施是不恰当的？",
+        "options": "A. 使用镇静剂处理烦躁患者\nB. 采用弱酸溶液进行灌肠\nC. 确保患者大便通畅\nD. 实施禁蛋白饮食\nE. 密切监测生命体征",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在胆道系统的生理功能中，以下哪几项描述是正确的？",
+        "options": "A. 胆囊每日可储存和浓缩胆汁约500ml\nB. 促胰液素是促进胆汁分泌的主要激素\nC. 毛细胆管在胆汁的流量和成分调节中发挥重要作用\nD. 肝细胞是胆汁的唯一来源",
+        "answer": "ABC",
+        "answer_format": "MultipleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝血管瘤的肝血池显像中，血管瘤区域的放射性强度与周围肝组织相比如何？",
+        "options": "A. 增高\nB. 明显增高\nC. 稍低\nD. 明显减低\nE. 相似",
+        "answer": "AB",
+        "answer_format": "MultipleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "对于疑似胆石症的患者，以下哪种影像学检查方法应作为首选？",
+        "options": "A. 腹部CT\nB. 腹部超声\nC. 腹部平片\nD. 腹部MRI\nE. ERCP",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝功能不全的患者中，由于雌激素的灭活作用减弱，可能会出现以下哪些症状？",
+        "options": "A. 蜘蛛痣\nB. 肝掌\nC. 男子乳房发育\nD. 女子月经失调",
+        "answer": "ABCD",
+        "answer_format": "MultipleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在临床诊断中，下列哪项特征是区分肝硬化腹水与右心衰伴大量腹水的关键指标？",
+        "options": "A. 颈静脉怒张\nB. 下肢浮肿\nC. 呈现蛙腹\nD. 肝大质硬\nE. 伴黄疸",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝胆外科诊断中，以下哪种标本最有可能检测到溶组织内阿米巴包囊？",
+        "options": "A. 肝脓肿穿刺液\nB. 黏液脓血便\nC. 脓血痰液\nD. 成形粪便\nE. 肺脓肿穿刺液",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在以下患者中，哪一类患者需要遵循低脂肪饮食？",
+        "options": "A. 甲状腺功能亢进患者\nB. 烧伤患者\nC. 大手术后患者\nD. 急性肾炎患者\nE. 肝胆胰疾病患者",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "男性，59岁，长期饮酒史，反复左上腹持续性隐痛伴腹胀、消瘦、脂肪泻4年，腹痛发作时加剧并向腰背部放射，呈束腰带状。查体：皮肤巩膜无黄染。实验室检查：尿淀粉酶450U/L，空腹血糖11.5mmol/L。最可能的诊断是？",
+        "options": "A. 胃溃疡\nB. 慢性结肠炎\nC. 慢性胰腺炎\nD. 胰头癌\nE. 十二指肠溃疡",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在胆管癌的相关描述中，以下哪一项是正确的？",
+        "options": "A.胆管癌是胆道系统中最常见的恶性肿瘤\nB.肝外胆管癌中，肝门部是最常见的发病部位\nC.胆管癌在青壮年人群中更为常见\nD.胆管癌的组织学病理类型以鳞癌为主\nE.胆管癌的发病与华支睾吸虫感染无关",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在原发性胆汁性肝硬化的病理学特征中，哪一项描述最为准确？",
+        "options": "A. 肝内血循环紊乱、血管床缩小、闭塞和扭曲\nB. 汇管区纤维结缔组织增生\nC. 肝内细小胆管慢性非化脓性破坏性炎症\nD. 广泛的肝细胞变性坏死\nE. 汇管区可见程度不等的炎症细胞浸润",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "对于肝硬化腹水患者，每日的液体摄入量应控制在什么范围内？",
+        "options": "A. 1000-1500ml\nB. 500-1000ml\nC. 小于500ml\nD. 1500-2000ml\nE. 2000-2500ml",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在胆色素结石的形成过程中，以下哪一项因素不参与其中？",
+        "options": "A. 双葡萄糖醛酸胆红素\nB. β-葡萄糖醛酸胆红素\nC. 葡萄糖醛酸-1，4-内酯\nD. 胆道蛔虫病\nE. 肝胆管狭窄",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在急性期及肝功能明显受损的情况下，以下哪种药物应避免使用？",
+        "options": "A. 山药\nB. 六味地黄丸\nC. 砒石\nD. 山楂\nE. 牛黄",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在继发性肝癌的诊断和治疗中，以下哪一项描述是不准确的？",
+        "options": "A. 血清AFP水平通常为阴性\nB. 常见的原发癌灶包括胃癌、结肠癌和胰腺癌\nC. 通常表现为单个结节，而非多发结节\nD. 主要症状通常由肝外原发癌肿引起\nE. 诊断的核心在于确定原发癌灶的位置",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝癌的初步诊断中，最推荐的首选检查方法是什么？",
+        "options": "A. CT扫描\nB. 磁共振成像（MRI）\nC. 超声检查\nD. 肝动脉造影\nE. 超声检查联合甲胎蛋白（AFP）定量测定",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在急性肝衰竭患者出现肝性脑病的情况下，以下哪种治疗方法是不推荐的？",
+        "options": "A. 使用硫喷妥钠\nB. 进行过度换气\nC. 将体温降低至32℃-33℃\nD. 实施腹膜透析",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位患者因突发上腹部剧烈疼痛入院，伴有高热（体温39℃）、巩膜黄染及剑突下压痛。在观察期间，患者多次出现寒战，脉搏加快至110次/分，血压升高至22/14kPa(165/105mmHg)。根据这些症状，最可能的诊断是什么？",
+        "options": "A.急性胰腺炎\nB.慢性胆囊炎合并胆囊结石\nC.急性梗阻性化脓性胆管炎\nD.急性化脓性胆囊炎\nE.胆道蛔虫病",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "一名6岁男孩被诊断为胆道蛔虫病，以下哪项病史或体征最不符合该诊断？",
+        "options": "A. 发病12～24小时常有明显黄疸\nB. 曾有粪便中排出蛔虫的病史\nC. 腹痛呈间歇性发作\nD. 病情严重时可出现急性胆管炎症状\nE. 伴有恶心、呕吐症状",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在肝脓肿的X线平片检查中，以下哪些表现是常见的？",
+        "options": "A.膈肌升高\nB.肝向下增大\nC.右下肺盘状不张\nD.结肠肝曲上移\nE.右侧胸腔积液",
+        "answer": "ABCE",
+        "answer_format": "MultipleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在先天性胆管扩张症的患者中，以下哪种症状通常不会出现？",
+        "options": "A. 右上腹肿块\nB. 黄疸\nC. 发热、上腹痛\nD. 右上腹阵发性绞痛\nE. 出现症状时间可由新生儿、儿童至成年",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝胆外科临床实践中，以下哪种症状组合最可能提示原发性肝癌的诊断？",
+        "options": "A. 持续性肝区疼痛伴呕血\nB. 轻度上腹部不适\nC. 进行性食欲减退和体重下降\nD. 皮肤和巩膜黄染\nE. 腹部膨隆伴腹水",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在下列疾病中，哪种疾病最常导致肝细胞性黄疸的发生？",
+        "options": "A. 胆管癌\nB. 急性黄疸性肝炎\nC. 胆管结石\nD. 原发性胆汁性肝硬化\nE. 胰头癌",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位50岁男性患者，因肝硬化导致腹水、尿量减少、下肢水肿以及端坐呼吸。在这种情况下，应立即采取以下哪种措施？",
+        "options": "A. 口服呋塞米片\nB. 洋地黄静推\nC. 毛花苷C静推\nD. 口服硫酸镁导泻\nE. 呋塞米静推",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "对于肝硬化腹水患者，每日的进水量应控制在多少？",
+        "options": "A. 250ml左右\nB. 500ml左右\nC. 750ml左右\nD. 1000ml左右\nE. 1500ml左右",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在中医古籍中，哪一部医书首次明确指出胁痛与肝胆病变之间存在直接关联？",
+        "options": "A.《难经》\nB.《伤寒杂病论》\nC.《景岳全书》\nD.《证治汇补》\nE.以上都不是",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "患者因胆道砂石阻塞出现黄疸、右胁疼痛并放射至肩背，伴有寒热交替及大便呈灰白色，应选用哪种治疗方案？",
+        "options": "A.茵陈蒿汤\nB.麻黄连翘赤小豆汤\nC.栀子柏皮汤\nD.大柴胡汤",
+        "answer": "AD",
+        "answer_format": "MultipleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在以下关于胆汁的描述中，哪一项是不正确的？",
+        "options": "A.胆汁呈金黄色，pH7.8〜8.6\nB.胆汁中除97%是水外，还有胆盐等有机物及Na+等无机物\nC.正常人每天分泌胆汁600〜1200ml\nD.在胆囊中贮存胆汁，因被浓缩而颜色加深\nE.消化期时，胆汁进入胆囊储存",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝脏触诊的临床实践中，以下哪项描述是不正确的？",
+        "options": "A. 触诊过程中需要与患者的呼吸动作密切配合\nB. 单手触诊法是临床上较为常用的触诊方法\nC. 当肝脏位置较深时，应采用浮沉触诊法（冲击触诊法）\nD. 正常肝脏在肋缘下的触诊范围通常不超过1厘米\nE. 正常肝脏在剑突下的触诊范围通常在3至5厘米之间",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在评估肝硬化患者是否并发原发性肝癌时，以下哪项检查最具诊断价值？",
+        "options": "A. 胃镜检查显示食管下段及胃底静脉曲张\nB. 腹水分析\nC. 白蛋白与球蛋白比例显著倒置\nD. 靛青绿清除试验\nE. 肝脾超声检查",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在以下哪种情况下，胆囊结石患者应考虑进行胆囊切除术？",
+        "options": "A. 无症状的年轻患者\nB. 经常出现右上腹疼痛\nC. 结石直径超过2厘米\nD. 同时患有糖尿病",
+        "answer": "BCD",
+        "answer_format": "MultipleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在肝脏的多种功能中，哪一项描述是不正确的？",
+        "options": "A. 分泌胆汁\nB. 参与代谢过程\nC. 具有解毒功能\nD. 参与免疫反应\nE. 将维生素A转化为凝血酶原",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在日本血吸虫病中，最常见的肝硬化类型是",
+        "options": "A.胆汁性肝硬化\nB.门脉性肝硬化\nC.干线型肝硬化\nD.坏死后性肝硬化",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝胆外科手术中，TIPSS手术的主要路径和连接部位是？",
+        "options": "A.经颈静脉途径在肝静脉与肝内门脉之间建立通道\nB.经股静脉途径在下腔静脉与肝动脉之间建立通道\nC.经颈静脉途径在肝动脉与肝内门脉之间建立通道\nD.经股静脉途径在下腔静脉与门脉之间建立通道\nE.经股动脉途径在肝动脉与门脉之间建立通道",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝细胞再生的研究中，以下哪项陈述是不正确的？",
+        "options": "A. 肝细胞属于不稳定细胞，肝部分切除后可快速再生\nB. 肝脏干细胞具有分化为胆管上皮细胞和肝细胞的双向潜能\nC. 肝细胞广泛变性伴点状坏死时可完全再生修复\nD. 肝细胞坏死，网状支架完整，可通过再生恢复正常结构\nE. 肝细胞大片坏死，网状支架塌陷，则再生肝细胞难以恢复原来小叶结构",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝性脑病的诊断中，以下哪项陈述是不正确的？",
+        "options": "A. 前驱期症状常被误认为精神病\nB. 血氨水平不升高可以排除肝性脑病\nC. 扑翼样震颤、血氨升高和脑电图异常同时出现有助于诊断\nD. 急性肝功能衰竭引起的肝性脑病血氨水平通常正常",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝脓肿的超声检查中，以下哪种表现最为罕见？",
+        "options": "A.病变呈不均匀的低至中等回声区，边界模糊，似肝脏恶性肿瘤\nB.囊壁厚而不光滑\nC.囊壁薄而光滑\nD.囊内不规则低回声，可随体位改变出现光点漂浮现象\nE.囊壁可有钙化",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在以下因素中，哪一项不是导致肝硬化的常见原因？",
+        "options": "A. 胆汁淤积\nB. 丙型肝炎\nC. 酒精中毒\nD. 乙型肝炎\nE. 甲型肝炎",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝性脑病的患者中，哪种情况通常预后最差？",
+        "options": "A. 肝硬化伴腹腔积液者\nB. 暴发性肝炎所致者\nC. 诱因明确，且易消除者\nD. 肝硬化伴黄疸者\nE. 肝硬化伴自发性腹膜炎者",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位38岁男性患者，在餐后2小时突然出现腹痛、恶心、呕吐，并伴有发热。第二天出现黄疸，血液检查显示淀粉酶和胆红素水平显著升高。请问导致黄疸的最可能原因是什么？",
+        "options": "A. 肝细胞性黄疸\nB. 胆结石并胰腺炎\nC. 肿大的胰腺压迫胆管所致\nD. 胆囊炎所致\nE. 胆总管下端狭窄",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在急性梗阻性化脓性胆管炎的治疗中，哪一项措施是最为关键的？",
+        "options": "A. 输液，补充血容量\nB. 胆道减压手术\nC. 静滴大量抗生素\nD. 纠正酸中毒\nE. 营养支持",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位患者出现无痛性进行性黄疸，最可能的诊断是？",
+        "options": "A.急性胰腺炎\nB.慢性胆囊炎\nC.胰头癌\nD.急性胆囊炎\nE.急性化脓性胆管炎",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在日本血吸虫病导致的肝脏病变中，最常见的肝硬化类型是",
+        "options": "A. 胆汁性肝硬化\nB. 门脉性肝硬化\nC. 干线型肝硬化\nD. 游血性肝硬化\nE. 坏死后性肝硬化",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在原发性肝癌的诊断中，以下哪一项症状通常不会出现？",
+        "options": "A. 持续不规则发热\nB. 低胆固醇血症\nC. 肝硬化表现\nD. 低血糖症\nE. 门静脉血栓形成",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝胆外科临床实践中，放射性核素肝胆动态显像技术可用于以下哪些情况？",
+        "options": "A. 急性胆囊炎的诊断\nB. 肝外胆道梗阻与肝内胆汁淤积的鉴别诊断\nC. 先天性胆道闭锁与新生儿肝炎的鉴别诊断\nD. 胆总管囊肿等先天性胆道异常的诊断\nE. 肝胆系统术后疗效评估及胆汁漏的诊断",
+        "answer": "ABCDE",
+        "answer_format": "MultipleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "一位65岁男性患者因急性胰腺炎入院，随后发展为多器官功能不全综合征。在分析其发病机制时，以下哪项不属于主要的损害因子？",
+        "options": "A. 细胞因子\nB. 炎性介质\nC. 生长因子\nD. 全身炎性反应\nE. 组织缺血—再灌注过程",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "关于乙型肝炎患者的病情发展，以下哪项描述是不正确的？",
+        "options": "A. 同时感染HDV等其他肝炎病毒会加重病情\nB. 重型肝炎患者常伴有细菌感染\nC. 乙型肝炎是导致肝细胞癌的主要原因\nD. 急性淤胆型肝炎容易发展为胆汁性肝硬化\nE. 成年人感染HBV后不易发展为慢性肝炎",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位34岁男性患者，主诉肝区疼痛并伴有间歇性发热。影像学检查（B超、CT）显示左肝外叶胆管扩张伴结石，胆囊肿大，胆总管增粗且内有泥沙样结石。术中证实胆总管远端明显狭窄，F9号导尿管无法通过。请问以下哪些手术方式适用于该患者？",
+        "options": "A. 胆囊切除术\nB. 胆肠吻合术\nC. 胆总管探查术\nD. 左肝外叶切除术\nE. Oddi括约肌成形术",
+        "answer": "ABCD",
+        "answer_format": "MultipleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在肝硬化门静脉高压症患者中，脾切除联合贲门周围血管离断术用于治疗食管静脉曲张破裂出血。关于该手术的优点，以下哪项说法尚未得到广泛认同？",
+        "options": "A. 手术创伤相对较小\nB. 止血效果较为理想\nC. 术后肝性脑病发生率较低\nD. 术后肝功能得到改善",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝胆外科手术中，医生需要准确识别肝脏的各个叶段。附图中直线所指部位的解剖名称为",
+        "options": "A. 肝脏右前叶\nB. 肝脏左外叶下段\nC. 肝脏左内叶\nD. 肝脏右后叶\nE. 肝脏左外叶上段",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位50岁男性患者因胆囊结石需要进行B型超声检查，检查前一晚最适合进食的食物是",
+        "options": "A. 油煎鸡蛋\nB. 牛奶\nC. 红烧牛肉\nD. 清汤面\nE. 炖豆腐",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在肝胆外科手术中，Calot三角是由哪些结构组成的解剖区域？",
+        "options": "A.胆囊管，脾静脉，肝下缘\nB.胆囊管，肝总管，肝下缘\nC.主胰管，肝总管，肝下缘\nD.胆囊管，肝总管，肝上缘\nE.胆囊底，胆总管，肝上缘",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "关于胰岛素瘤的临床表现，下列哪一项描述是不正确的？",
+        "options": "A. 葡萄糖耐量试验显示低平曲线\nB. 饥饿试验可以诱发相关症状\nC. 血液中胰岛素水平增加超过50%\nD. 患者常出现低血糖症状\nE. 确诊后通常建议手术切除肿瘤",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在门脉高压的临床表现中，以下哪一项最具特异性？",
+        "options": "A. 肝掌\nB. 脾功能亢进\nC. 周身水肿\nD. 食管静脉曲张\nE. 腹水",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PortalHypertension",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在T1加权成像（T1WI）中，以下哪种病变的信号强度高于正常肝组织？",
+        "options": "A. 肝脓肿\nB. 肝脏血管瘤\nC. 单纯性肝囊肿\nD. 转移性肝癌\nE. 肝脏脂肪瘤",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝脏功能受损的早期阶段，下列哪种凝血因子的活性会首先降低？",
+        "options": "A. FⅡ：C\nB. FⅤ：C\nC. FⅦ：C\nD. FⅧ：C\nE. FⅩ：C",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在诊断不明原因的肝外阻塞性黄疸时，推荐进行哪种手术？",
+        "options": "A. 胆囊造瘘术\nB. 胆道探查及引流术\nC. 胆总管十二指肠吻合术\nD. 肝叶切除术\nE. 胆囊切除",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在诊断细菌性肝脓肿时，以下哪项病史不应出现？",
+        "options": "A. 胆道化脓性感染史\nB. 阿米巴原虫感染史\nC. 全身化脓性感染史\nD. 肝肿大伴疼痛\nE. 可见右膈升高、运动受限",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝胆外科中，夏科(Charcot)三联症是以下哪种疾病的典型表现？",
+        "options": "A. 急性胰腺炎\nB. 急性胆管炎\nC. 急性十二指肠憩室炎\nD. 急性胃炎\nE. 急性胆囊炎",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在胆固醇结石的形成过程中，以下哪项因素起主要作用？",
+        "options": "A.胆汁中钙离子浓度升高\nB.胆盐与磷脂的微胶粒不足\nC.胆固醇绝对含量增加\nD.大肠杆菌产生的β葡萄糖醛酸酶过量\nE.胆汁酸分泌量增加",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝性脑病症状显现之前，哪种检测方法能够早期发现病情？",
+        "options": "A.空腹血糖\nB.脑电图\nC.肝功能全套\nD.视觉诱发电位\nE.血氨",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位30岁女性患者，近2年多来反复出现右上腹疼痛，并伴有肩背部放射痛。根据超声检查结果，最可能的诊断是",
+        "options": "A. 胆囊息肉\nB. 胆囊腺瘤\nC. 胆囊结石\nD. 胆囊蛔虫\nE. 胆囊癌",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "患者李某，男性，60岁，一年前因肝细胞癌接受了左半肝切除术。术后需定期随访，以下哪种检查方法对早期发现肿瘤复发最为敏感？",
+        "options": "A. 定期进行ALT水平监测\nB. 定期进行GGT水平监测\nC. 定期进行腹部超声检查\nD. 定期进行甲胎蛋白（AFP）检测\nE. 选择性进行肝动脉造影",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "一位63岁的女性患者，近3年来在冬季反复出现上腹部疼痛，疼痛通常在餐后半小时开始，餐前缓解。最近一周症状复发。体检显示患者神志清醒，无贫血表现，剑突下有压痛，肝脾未触及。根据这些症状和体征，最可能的诊断是什么？",
+        "options": "A. 胃癌\nB. 慢性胃炎\nC. 十二指肠溃疡\nD. 慢性胆囊炎\nE. 胃溃疡",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在诊断阿米巴肝脓肿时，以下哪项特征最具特异性？",
+        "options": "A. 突发寒战、高热，肝区疼痛，肝肿大\nB. 右上腹绞痛及黄疸\nC. 穿刺抽出棕褐色脓液\nD. 补体结合试验阳性",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在治疗肝性脑病时，医生可能会给患者开新霉素口服，其主要目的是什么？",
+        "options": "A. 抑制肠道细菌生长\nB. 预防肠道感染\nC. 减少尿素酶的产生\nD. 预防原发性腹膜炎",
+        "answer": "AC",
+        "answer_format": "MultipleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在急性胰腺炎的病因中，高三酰甘油血症的诊断标准是血三酰甘油水平应达到多少？",
+        "options": "A.大于2.3mmol/L\nB.达到正常上限的3倍\nC.大于11.0mmol/L\nD.大于20.0mmol/L\nE.达到正常上限的3倍，伴血胆固醇升高",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位58岁男性患者，患有肝炎已有10余年，最近因感到无力、食欲不振和腹胀20天，被诊断为乙肝后肝硬化（失代偿期）并入院。肝功能测试显示显著异常，特别是白蛋白水平降低，球蛋白水平升高，白蛋白与球蛋白比率倒置。为了治疗其低蛋白血症，应首选哪种血液制品？",
+        "options": "A. 全血\nB. 新鲜冰冻血浆\nC. 普通冰冻血浆\nD. 低分子右旋糖酐\nE. 白蛋白",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "患者出现发热和肝痛症状，阿米巴血清学检查结果为阴性，最可能的诊断是什么？",
+        "options": "A. 确诊阿米巴肝病\nB. 排除阿米巴肝病\nC. 阿米巴原虫携带者\nD. 肠阿米巴病普通型\nE. 肠阿米巴病普通型",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在肝胆外科诊断中，超声检查对于以下哪种疾病的诊断作用有限？",
+        "options": "A. 胆囊炎\nB. 胆结石\nC. 胆囊积液\nD. 胃肠炎\nE. 阻塞性黄疸",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在原发性肝癌的转移过程中，哪个脏器最常受到影响？",
+        "options": "A. 肺\nB. 脑\nC. 肝内\nD. 骨\nE. 胃",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在下列哪种疾病中，Reynolds征最为典型？",
+        "options": "A. 急性化脓性胆囊炎\nB. 急性梗阻性化脓性胆管炎\nC. 急性出血性坏死性胰腺炎\nD. 急性坏死性小肠炎\nE. 绞窄性小肠梗阻",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位40岁男性患者，3天前体检时通过B超发现右肝内有一个直径3cm的肿物，血AFP水平为500μg/L。针对这种情况，最有效的治疗方法是什么？",
+        "options": "A.经股动脉插管化疗\nB.经皮肿瘤穿刺注无水酒精\nC.行肝段切除术\nD.放射治疗\nE.全身化疗",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "一位44岁男性患者，长期患有肝病，近期随访发现肝右叶有一个8cm的占位性病变，周围有多个卫星灶，但肝肾功能正常。在这种情况下，首选的治疗方案是什么？",
+        "options": "A. 全身化学治疗\nB. 肿瘤局部放射治疗\nC. 手术切除\nD. 介入治疗\nE. 肿瘤局部无水酒精注射",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在诊断胰岛素瘤时，以下哪项实验室检查结果通常会出现异常？",
+        "options": "A. 血浆胰岛素原与总胰岛素的比值超过20%\nB. C肽水平升高\nC. 血浆胰岛素浓度增加\nD. 胰岛素原水平上升\nE. 胰岛素分泌功能下降",
+        "answer": "ABCD",
+        "answer_format": "MultipleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位长期在牧区生活的患者，通过超声检查发现肝右叶有一个8cm×10cm的无回声包块，囊壁厚且外壁光滑整齐，囊内可见多个大小不等的圆形无回声小囊。根据这些表现，最可能的诊断是什么？",
+        "options": "A. 阿米巴肝脓肿\nB. 肝包虫囊肿\nC. Caroli病\nD. 肝血肿\nE. 肝囊肿分隔型",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝胆外科中，胆囊结石可能引发哪些并发症？",
+        "options": "A. 胰腺炎\nB. 梗阻性黄疸\nC. 胆囊癌\nD. 肠梗阻",
+        "answer": "ABCD",
+        "answer_format": "MultipleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "一名8岁女孩，右侧腹部发现一肿块，表面光滑，触诊有囊性感。进一步询问病史发现肿块的大小和张力有变化。最可能的诊断是",
+        "options": "A. 肠系膜囊肿\nB. 肾积水\nC. 胆总管囊肿\nD. 肾母细胞瘤\nE. 卵巢囊肿",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在肝胆外科中，乳腺、胰腺等腺癌转移至肝脏的转移性肿瘤，其常见的超声影像特征是什么？",
+        "options": "A. 高回声型\nB. 强回声型\nC. 低回声型\nD. 弱回声型\nE. 混合回声型",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位46岁男性在健康体检中通过B超发现右肝有一个1.5cm×2cm的占位性病变，接下来应首选哪种检查？",
+        "options": "A. ALP\nB. GGT\nC. AFP\nD. AFα（α-岩藻糖苷酶）\nE. CA19-9",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在以下因素中，哪一个与肝细胞癌的发生没有直接关联？",
+        "options": "A. 乙型肝炎病毒（HBV）感染\nB. 丙型肝炎病毒（HCV）感染\nC. 华支睾吸虫感染\nD. 黄曲霉素暴露\nE. 亚硝胺类化合物摄入",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位35岁女性患者，因胆囊结石反复发作急性胆囊炎，B超显示胆总管直径为6mm，口服胆囊造影检查胆囊未显影。此时，最合适的治疗方案是？",
+        "options": "A. 胆囊造瘘术\nB. 胆囊切除术\nC. 胆囊切开取石术\nD. 胆总管探查术II体外碎石\nE. 胆囊切除",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在肝血管瘤的超声检查中，以下哪种表现是不正确的？",
+        "options": "A. 高回声型\nB. 低回声型\nC. 血管聚集型\nD. 囊性型\nE. 混合回声型",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝性脑病伴有肾功能损害的患者中，下列哪种口服抗生素是合适的选择？",
+        "options": "A. 新霉素\nB. 卡那霉素\nC. 氨苄西林(氨苄青霉素）\nD. 甲硝唑（灭滴灵）\nE. 庆大霉素",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位67岁的男性患者，近期出现皮肤和巩膜黄染且逐渐加重，大便颜色持续变浅，体重明显下降。最可能的诊断是",
+        "options": "A. 急性病毒性肝炎\nB. 肝硬化\nC. 肝癌\nD. 胰头癌\nE. 胆总管结石",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在胆囊结石的临床表现中，以下哪项描述是不正确的？",
+        "options": "A. 所有胆囊结石患者都会出现明显症状\nB. 摄入高脂肪食物后症状会加剧\nC. 较大的单发结石较少发生嵌顿\nD. 结石卡在胆囊颈部时，可能引发急性胆囊炎\nE. 胆绞痛常向右侧肩部放射",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝性脑病的临床表现中，以下哪一项描述是不正确的？",
+        "options": "A. 所有患者都会出现昏迷\nB. 病程可分为急性、亚急性和慢性\nC. 可能表现为性格和行为异常\nD. 可能出现理解能力下降\nE. 可能出现神经系统体征",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在原发性肝癌的临床诊断中，以下哪项方法是错误的？",
+        "options": "A. 对于有肝病病史、HBsAg阳性、肝硬化或慢性肝炎，年龄在40~60岁的患者，应定期进行AFP和B超检查\nB. 如果AFP水平大于400μg/L，且影像学检查显示肝内实质性占位，可以明确诊断\nC. 如果AFP水平小于400μg/L，但影像学检查显示肝内实质性占位，且AFP异质体阳性，可以明确诊断\nD. 如果AFP阴性，但B超或CT显示肝内实质性占位，可以进行肝动脉造影或B超引导下细针经皮肝穿刺细胞学检查\nE. 如果AFP水平大于400μg/L，但B超或CT未发现肝内明确占位，可以排除肝癌诊断",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在以下关于肝脂肪变性原因的陈述中，哪一项是不正确的？",
+        "options": "A. 化学毒物干扰脂蛋白合成，引起肝脂肪变性\nB. 糖尿病状态下，过量脂肪酸进入肝脏，导致肝脂肪变性\nC. 缺氧环境可诱发肝脂肪变性\nD. 摄入过多脂肪直接导致肝脂肪变性\nE. 白喉杆菌外毒素干扰脂肪酸代谢，引发肝脂肪变性",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位肝硬化患者两个月前被诊断出腹水，昨天突然出现剧烈腹痛，伴有呕吐和发热，腹水迅速增加，并排出少量暗红色血便。这种情况最可能的原因是",
+        "options": "A.急性胰腺炎\nB.食管静脉曲张破裂出血\nC.合并肝癌破裂\nD.门静脉血栓形成\nE.合并脾破裂出血",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在评估胰腺病变的CT影像时，以下哪项表现最符合胰腺癌的诊断？",
+        "options": "A. 胰周及腹腔渗出，胰腺实质内有不规则低密度区，强化后低密度区增强不明显\nB. 胰头有3cmx4cm不均匀低密度区，强化后有不均匀增强\nC. 胰头部增大，密度与其他部位胰腺组织密度一致，胰周界限模糊\nD. 胰头均匀低密度区，CT值10 Hu，不被强化，胰体尾萎缩，胰管扩张\nE. 胆管扩张明显，胆总管下端可见2 cmxlcm的极强密度区",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝胆外科手术中，了解血管解剖至关重要。以下哪支动脉的起源与肠系膜上动脉无关？",
+        "options": "A. 胰十二指肠上动脉\nB. 结肠中动脉\nC. 回结肠动脉\nD. 胰十二指肠下动脉\nE. 结肠右动脉",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位50岁男性患者，长期有吸烟和饮酒习惯，并有胆道结石病史。昨晚在大量饮酒和暴食后，突然感到左上腹剧烈疼痛。根据这些症状，最可能的诊断是什么？",
+        "options": "A. 胆囊穿孔\nB. 胆道阻塞\nC. 肝硬化\nD. 急性胰腺炎\nE. 原发性肝癌",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "一位59岁男性患者，既往有慢性支气管炎和肝炎病史。最近一周出现精神错乱和尿量减少。体检发现患者处于昏睡状态，口腔有异味，心肺检查无异常，腹部膨隆，腹水征阳性，未引出扑翼样震颤。针对该患者的治疗，以下哪项措施不适宜？",
+        "options": "A. 适量利尿剂\nB. 抗生素\nC. 静滴高渗葡萄糖液\nD. 高蛋白质饮食鼻饲\nE. 精氨酸",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位肝硬化患者出现血性腹水，但没有腹痛和发热的症状，最可能的诊断是什么？",
+        "options": "A. 结核性腹膜炎\nB. 原发性肝癌\nC. 门静脉血栓形成\nD. 肝-肾综合征\nE. 自发性腹膜炎",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝脏的微观结构中，胆小管的位置是",
+        "options": "A.肝板与血窦间\nB.肝小叶之间\nC.肝板内相邻肝细胞间\nD.窦周隙内\nE.肝板间",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位60岁男性患者，出现无痛性黄疸已持续一个多月，体重逐渐下降，但无明显不适。超声检查显示肝内外胆管和胆囊明显扩张，胰管未扩张，胆总管下段发现低回声团块，与胆管壁界限不清，彩色多普勒超声显示团块内有血流信号，脉冲多普勒检测到动脉频谱。以下哪种疾病不需要与该病进行鉴别？",
+        "options": "A. 胰头部实性占位\nB. 壶腹周围实性占位\nC. 胆总管下段结石\nD. 十二指肠壁占位\nE. 胆总管上段实性占位",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在急性胰腺炎发病后，血清淀粉酶水平通常在何时开始上升？",
+        "options": "A. 1～2小时\nB. 6～12小时\nC. 13～16小时\nD. 20～24小时\nE. 26～48小时",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝癌的诊断中，以下哪种肿瘤标志物最为关键？",
+        "options": "A. CEA（癌胚抗原）\nB. PSA（前列腺特异抗原）\nC. AFP（甲胎蛋白）\nD. HCG（绒毛膜促性腺激素）\nE. AKP（碱性磷酸酶）",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在胆总管探查术后，关于T形引流管的拔除指征，以下哪一项是不正确的？",
+        "options": "A.术后一周\nB.血胆红素水平恢复正常\nC.患者体温稳定\nD.患者无腹痛、腹胀等不适症状\nE.T管造影显示肝内外胆管显影正常",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在解剖学中，胆总管下段与胰头的关系是（）。",
+        "options": "A. 前方\nB. 后方\nC. 外侧\nD. 内侧\nE. 实质内",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在门静脉高压症的手术治疗中，主要的手术目标是什么？",
+        "options": "A. 治疗腹水\nB. 改善肝功能\nC. 去除门静脉高压症的病因\nD. 治疗肝性脑病\nE. 预防和控制食管、胃底曲张静脉出血",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PortalHypertension",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在以下疾病中，哪一项通常不会导致肝脏体积增大？",
+        "options": "A. 急性病毒性肝炎伴黄疸\nB. 肝硬化伴腹水\nC. 肝癌伴肝性脑病\nD. 肝脓肿伴右侧胸水\nE. 右心衰竭伴下肢水肿",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝细胞肝癌的诊断中，以下哪项血液检查具有较高的特异性？",
+        "options": "A. 血甲胎蛋白\nB. 血碱性磷酸酶\nC. 血胆红素\nD. 血尿素氮\nE. 胰岛素",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在急性胰腺炎的影像学检查中，增强扫描的主要目的是什么？",
+        "options": "A.观察胰腺与脾静脉的关系\nB.判断有无胰腺坏死灶及其范围，推断病变的程度\nC.观察胰腺与结肠肝曲及脾曲的关系\nD.观察胰腺与肾前筋膜的关系\nE.观察胰腺与十二指肠的关系",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝性脑病患者的饮食管理中，以下哪种饮食成分是不推荐的？",
+        "options": "A. 高热量\nB. 高碳水化合物\nC. 高维生素\nD. 高蛋白质\nE. 对于不能进食的患者，可以使用鼻饲或静脉滴注葡萄糖",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在慢性肝炎患者中，毛玻璃样肝细胞的出现主要与以下哪种细胞器内的物质积累有关？",
+        "options": "A.滑面内质网内有大量HBsAg颗粒\nB.高尔基复合体内有大量HBsAg颗粒\nC.粗面内质网内有大量HBsAg颗粒\nD.线粒体肿胀\nE.核糖体增多",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位33岁女性患者，有8年乙型肝炎病史，近5个月来反复出现肝区疼痛，伴有间歇性恶心和体重下降。B超检查发现左肝叶有一个3cm的低回声肿块，血清AFP水平为530ng/ml。根据这些信息，最可能的诊断是什么？",
+        "options": "A. 早期肝硬化\nB. 活动性肝炎\nC. 生殖腺胚胎肿瘤\nD. 原发性肝癌\nE. 滋养层细胞肿瘤",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在临床实践中，用于确诊细菌性肝脓肿的首选影像学检查方法是",
+        "options": "A. 腹部X线平片\nB. 超声检查\nC. 计算机断层扫描\nD. 血常规分析\nE. 血液细菌培养",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在原发性肝癌的早期筛查中，以下哪种组合检查方法最具临床价值？",
+        "options": "A. AFP联合肝动脉造影\nB. AFP联合γ-谷氨酰转移酶检测\nC. AFP联合放射性核素肝扫描\nD. AFP联合超声检查",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "关于胆总管的解剖结构，以下哪项描述是正确的？",
+        "options": "A. 直径0.3～0.5cm\nB. 位于肝固有动脉的左侧\nC. 位于肝胃韧带内\nD. 由左、右肝管汇合形成\nE. 由肝总管和胆囊管汇合形成",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "患者张某，因胆囊炎需要进行胆囊造影检查。在第一次摄片后，胆囊显影良好，此时患者可以进食以下哪种食物？",
+        "options": "A. 水 500ml\nB. 馒头 1个\nC. 苹果 2个\nD. 面条 1碗\nE. 油煎荷包蛋2个",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在肝性脑病患者的饮食管理中，当开始增加动物蛋白摄入时，以下哪项是正确的？",
+        "options": "A. 选择产氨较多的蛋白质\nB. 不宜供给含植物蛋白质的食品\nC. 应增加含氮多的动物蛋白\nD. 动物性蛋白中牛奶含氮最少\nE. 动物性蛋白中鸡肉含氮最少",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位48岁男性患者，有5年肝硬化病史，近半年来腹胀症状加重，并伴有双下肢水肿。以下哪项治疗措施是不恰当的？",
+        "options": "A. 卧床休息\nB. 低蛋白质饮食\nC. 低盐限水\nD. 定期补充白蛋白\nE. 快速、大量利尿以加快腹水消退",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "一位32岁男性患者，已有肝脾肿大病史3年。10天前帮助同事搬家后，出现极度乏力、食欲减退、恶心、厌油、腹胀以及深度巩膜黄染。体检发现肝右肋下未触及，实验室检查显示血清ALT为60u/L，总胆红素324umol/L，凝血酶原活动度30%，一分钟胆红素188.6umol/L。根据这些信息，最可能的诊断是什么？",
+        "options": "A. 慢性肝炎重度\nB. 淤胆型肝炎\nC. 急性重症肝炎\nD. 亚急性重症肝炎\nE. 慢性重症肝炎",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝胆外科的诊断中，下列哪项不是肝胆动态显像的常见适应证？",
+        "options": "A. 诊断急性胆囊炎\nB. 诊断胆囊结石\nC. 诊断慢性胆囊炎\nD. 胆管先天性囊状扩张症\nE. 先天性胆管闭锁",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在脂肪肝的发病机制中，以下哪项因素与其形成密切相关？",
+        "options": "A. 脂蛋白合成增多\nB. 肝内形成的甘油三酯增多或氧化减少\nC. 碳水化合物摄入过多\nD. 蛋白质摄入过多\nE. 进入肝脏的脂肪酸过少",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在超声检查中，测量脾脏大小的正确方法是",
+        "options": "A. 通过肋间斜切，显示脾门和脾静脉，测量其厚度及最大长径\nB. 通过肋间斜切，显示脾门和胰尾，测量其厚度及长径\nC. 通过肋间斜切，显示腹腔动脉，测量其厚度及长径\nD. 通过肋下斜切，显示腹主动脉，测量其长径\nE. 通过肋下斜切，显示下腔静脉，测量其长径",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "对于肝性脑病患者，在治疗后神志恢复时，哪种蛋白质饮食是最合适的？",
+        "options": "A.动物蛋白质\nB.蔬菜、水果\nC.碳水化合物\nD.蛋白质在60g/d以上\nE.植物蛋白质",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位50岁男性患者，近3个月来持续感到肝区疼痛，肝脏逐渐增大，频繁出现低血糖症状，且外周血中红细胞计数明显升高。根据这些症状，最可能的诊断是：",
+        "options": "A. 真性红细胞增多症\nB. 重症肝炎\nC. 肺源性心脏病\nD. 原发性肝癌\nE. 继发性红细胞增多症",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在急性化脓性梗阻性胆管炎中，以下哪些病理改变是常见的？",
+        "options": "A.胆管扩张\nB.胆管内脓液\nC.胆管壁广泛性炎症\nD.肝细胞损害",
+        "answer": "ABCD",
+        "answer_format": "MultipleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在急性出血坏死型胰腺炎中，以下哪项描述最能概括其严重的临床表现？",
+        "options": "A. 上腹剧痛，高热持续l周以上\nB. 常伴有休克\nC. 腹胀显著，腹壁紧张与上腹肿块，可并发胰腺脓肿\nD. 血尿淀粉酶不增高\nE. 以上各点都是",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝胆外科中，肝血管瘤介入治疗的适应证有哪些？",
+        "options": "A. 瘤体直径大于等于5cm\nB. 肿瘤位于肝脏表面或破裂出血者\nC. 伴腹胀、疼痛\nD. 瘤体直径小于5cm，但影响患者工作、学习、生活者",
+        "answer": "ABCD",
+        "answer_format": "MultipleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝癌的诊断和治疗中，关于肿瘤标志物AFP的临床应用，以下哪项描述是错误的？",
+        "options": "A. AFP是早期诊断肝癌的有效筛查工具\nB. AFP在肝癌的鉴别诊断中具有重要价值\nC. AFP水平的变化可用于评估治疗效果\nD. AFP升高是确诊肝癌的唯一标准\nE. AFP监测有助于发现肝癌的复发和转移",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝胆外科中，门静脉高压症最常见的原因是什么？",
+        "options": "A. 门静脉主干先天性畸形\nB. 肝静脉血栓形成、狭窄\nC. 肝段下腔静脉阻塞\nD. 肝硬化\nE. 各种原因致脾静脉血流量过大",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在一位患者的超声检查中，发现右肝前叶有一斑状强回声区域，声影不明显，且不沿肝管走行。根据这些特征，最可能的诊断是什么？",
+        "options": "A. 肝血管瘤\nB. 肝结核\nC. 肝内胆管结石\nD. 肝内钙化灶\nE. 肝内胆管积气",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一名12岁男孩因突发阵发性右上腹绞痛，伴有恶心、呕吐，症状反复发作，持续时间不一。查体显示体温正常，巩膜无黄染，无肌紧张。以下哪种治疗方案不适用于此患者？",
+        "options": "A.胆囊切除术\nB.针刺足三里\nC.解痉利胆驱虫\nD.胆总管探查取虫引流\nE.手术后驱虫治疗",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在原发性肝细胞肝癌的诊断中，以下哪种肿瘤标记物被认为是最理想的？",
+        "options": "A. AFP\nB. GGT2\nC. CA19-9\nD. CA125\nE. CEA",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝脏的解剖结构中，哪一结构负责将左内叶与左外叶分隔开来？",
+        "options": "A. 肝镰状韧带\nB. 肝圆韧带\nC. 静脉韧带\nD. 肝冠状韧带\nE. 门静脉的分支",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "张某，妊娠39周，因恶心、食欲不振和呕吐症状被诊断为急性病毒性肝炎，现已入院待产。以下哪项处理措施是不正确的？",
+        "options": "A.立即终止妊娠\nB.新生儿注射乙肝疫苗\nC.胎儿娩出后注射缩宫素\nD.缩短第二产程\nE.新生儿注射免疫球蛋白",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝胆超声检查中，正常肝总管及胆总管上段的内径通常小于伴行门静脉的多少？",
+        "options": "A.1/2\nB.2/3\nC.3/4\nD.1/3\nE.二者内径相等",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在解剖学中，胆总管根据其走行路径可以被划分为几个部分？",
+        "options": "A. 二段\nB. 三段\nC. 四段\nD. 五段\nE. 六段",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一名16岁女性患者，近10个月来出现右上腹疼痛并伴有黄疸，症状逐渐加重，大便呈陶土色。患者曾于出生后6天接受过先天性胆总管囊肿十二指肠吻合术。经过消炎利胆治疗后未见好转。该患者最可能的合并症是什么？",
+        "options": "A. 胆道造影\nB. 吻合口狭窄\nC. 肝硬化\nD. 结石\nE. 癌变",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在胰腺癌的影像学诊断中，以下哪项描述是不正确的？",
+        "options": "A. 血糖水平升高可能降低FDG PET的检测灵敏度\nB. 胰头癌可能导致胆管和胰管同时扩张，形成“双管征”\nC. 慢性胰腺炎在FDG PET显像中可能出现假阳性结果\nD. CT灌注成像显示病灶通常为富血供\nE. 黏液腺癌在影像学检查中可能产生假阴性结果",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在慢性病毒性肝炎的治疗中，以下哪种药物是有效的？",
+        "options": "A.干扰素\nB.金刚烷胺\nC.两性霉素B\nD.齐多夫定\nE.阿昔洛韦",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "患者李某，男性，52岁，因右上腹持续性疼痛2天入院。既往有慢性胆囊炎病史。在护理评估中，以下哪项内容不属于护士需要重点关注的方面？",
+        "options": "A. 疼痛的诱发因素\nB. 疼痛的具体位置、性质和强度\nC. 患者的日常饮食习惯\nD. 患者的体位变化\nE. 是否伴有其他不适症状",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在胆囊三角的解剖结构中，下列哪一项不属于其组成部分？",
+        "options": "A. 胆囊动脉\nB. 肝右动脉\nC. 肝总管\nD. 副右肝管\nE. 胆囊淋巴结",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在放射性核素肝脾胶体显像中，显像剂的主要作用机制是什么？",
+        "options": "A. 显像剂通过胆管排泄\nB. 显像剂被肝脏内的星状细胞吞噬\nC. 显像剂能够进入肝囊肿\nD. 脓肿组织特异性摄取显像剂\nE. 显像剂滞留在肝血管瘤中",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在细菌性肝脓肿的诊断和治疗中，以下哪项描述是不正确的？",
+        "options": "A. 大多数病例与胆道系统感染有关\nB. 主要致病菌通常是革兰氏阳性球菌\nC. 脓液常呈棕褐色，且细菌涂片可能为阴性\nD. 脓肿通常位于肝脏右叶且为单发\nE. 手术引流是唯一有效的治疗方法",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位42岁男性患者因上腹部疼痛1天前来就诊，血淀粉酶水平为600U（Somogyi法），诊断为急性胰腺炎。经过治疗后痊愈，为了防止疾病复发，以下哪项措施是不合适的？",
+        "options": "A.避免暴饮暴食\nB.避免酗酒\nC.忌食油腻食物\nD.积极治疗胆石症\nE.定期预防性应用抑肽酶",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在急性胰腺炎患者中，血钙浓度的变化规律是怎样的？",
+        "options": "A. 起病后6〜12小时升高，48小时下降，持续3〜5天\nB. 起病后12〜14小时升高，下降缓慢，持续1〜2周\nC. 起病后24〜72小时上升，持续7〜10天\nD. 降低程度与临床症状平行\nE. 起病后3〜4小时上升，12小时高峰，24小时下降",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位62岁女性患者被诊断为急性化脓性胆管炎，目前血压为75/60 mmHg，心率为132次/分，每小时尿量少于20毫升。在这种情况下，应首选哪种心血管药物进行治疗？",
+        "options": "A. 异丙肾上腺素\nB. 去甲肾上腺素\nC. 苯肾上腺素\nD. 间羟胺（阿拉明）\nE. 多巴胺",
+        "answer": "E",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "一位57岁男性患者，主诉右胁疼痛并伴有发热已持续3个月。体检发现肝脏在肋下3cm处可触及，质地坚硬，并可闻及血管杂音。实验室检查显示ALT为45U/L，γ-GT为400U/L。尽管接受了多种治疗，症状未见改善。首先应考虑的诊断是？",
+        "options": "A. 慢性活动性肝炎\nB. 肝硬化并糖尿病\nC. 原发性肝癌\nD. 肝脓肿\nE. 肝性脑病",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在胰源性胰腺炎中，导致休克的主要病理生理机制是",
+        "options": "A.胰酶外溢-脂肪酶-脂肪坏死\nB.胰蛋白酶-磷脂酶A-组织坏死\nC.胰蛋白酶-胰舒血管素-激肽原-激肽\nD.大量胰消化酶被激活\nE.胰酶-弹力纤维酶-血管损害出血",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在急性梗阻性化脓性胆管炎的治疗中，哪一项措施最为关键？",
+        "options": "A. 输液、输血维持有效血容量\nB. 纠正代谢性酸中毒\nC. 静脉输入大量抗生素\nD. 胆道减压引流解除梗阻\nE. 急诊行胆囊切除术",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位肝硬化患者因食管-胃底静脉曲张破裂导致大量呕血入院，以下哪种止血方法最为简便且有效？",
+        "options": "A. 静滴垂体后叶素\nB. 口服去甲肾上腺素溶液\nC. 应用三腔两囊\nD. 盐水洗胃\nE. 静滴酚磺乙胺",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PortalHypertension",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位55岁男性患者，饮酒后12小时出现中上腹疼痛，随后呕出200ml鲜红色血液前来急诊。体检发现腹部柔软，中上腹有压痛，肝脏未触及，脾脏在肋下1.5cm处可触及，血压正常。经过初步处理后，出血仍未停止，此时应首先采取以下哪项措施？",
+        "options": "A. 门腔静脉分流术\nB. 凝血酶原复合物静脉滴注\nC. 三腔气囊管压迫止血\nD. 普萘洛尔（心得安）\nE. 反复输血",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在急性胆囊炎患者中，以下哪些情况属于可能的并发症？",
+        "options": "A.胆囊穿孔\nB.胆囊内瘘\nC.急性气肿性胆囊炎\nD.胆囊积脓\nE.梗阻性黄疸",
+        "answer": "ABCD",
+        "answer_format": "MultipleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在治疗慢性肝病患者时，以下哪种药物需要特别谨慎使用？",
+        "options": "A. 辅酶A\nB. 异烟肼\nC. 法莫替丁\nD. 硝苯地平\nE. 地高辛",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位56岁男性患者因门静脉高压症接受了门腔静脉分流手术。在术后48小时内，医护人员应特别关注以下哪种并发症的发生？",
+        "options": "A. 肝性脑病\nB. 血管吻合口破裂内出血\nC. 腹腔感染\nD. 肠系膜血管栓塞\nE. 血小板过度增高",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PortalHypertension",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在肝胆外科临床实践中，下列哪种疾病最可能同时出现呕吐和黄疸症状？",
+        "options": "A. 急性胃炎\nB. 幽门梗阻\nC. 胆石症\nD. 急性肾盂肾炎\nE. 急性阑尾炎",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在肝硬化患者中，若出现血性腹水，最可能的原因是",
+        "options": "A. 结核性腹膜炎\nB. 原发性腹膜炎\nC. 肝硬化癌变\nD. 门静脉血栓形成\nE. 功能性肾衰竭（肝肾综合征）",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在胆道蛔虫症的治疗方案中，以下哪种方法被认为是不恰当的？",
+        "options": "A. 胆囊切除术\nB. 针刺足三里\nC. 解痉利胆驱虫\nD. 胆总管探查取虫引流\nE. 手术后驱虫治疗",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝豆状核变性患者中，起病较早者主要受累的器官是哪个？",
+        "options": "A. 神经系统损害\nB. 肝脏损害为主\nC. 急性溶血病\nD. 裂隙灯下可见角膜边缘的K-F环\nE. 肾小管性酸中毒",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在重症肝炎患者中，最常见的致命并发症是以下哪一项？",
+        "options": "A. 肝性脑病\nB. 严重感染\nC. 心力衰竭\nD. 弥散性血管内凝血（DIC）\nE. 酮症酸中毒",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位患有门脉肝硬化并伴有腹水的患者，最近两天出现腹泻、恶寒发热、腹痛，全腹压痛及反跳痛，最可能的诊断是什么？",
+        "options": "A. 肝癌破裂\nB. 自发性腹膜炎\nC. 门静脉血栓形成\nD. 结核性腹膜炎\nE. 腹腔转移癌",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位40岁男性患者，近20余天出现持续性黄疸并伴有皮肤瘙痒，症状近日加重。超声检查发现肝内外胆管及胆囊均扩张，胆总管下端呈截断阻塞，局部可见一实性结节。主胰管扩张，内径为0.5cm。最可能的阻塞病因是？",
+        "options": "A.壶腹周围癌\nB.胆总管下段结石\nC.硬化性胆管炎\nD.先天性胆总管囊肿\nE.非特异性胆管炎症",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在临床诊断中，A/G（白蛋白/球蛋白）比值主要用于评估哪个器官的疾病严重程度？",
+        "options": "A. 肺脏疾病的严重性\nB. 心脏疾病的严重性\nC. 肝脏疾病的严重性\nD. 肾脏疾病的严重性\nE. 脾脏疾病的严重性",
+        "answer": "C",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在肝性脑病的患者中，支链氨基酸与芳香氨基酸的摩尔比值通常会下降到哪个范围？",
+        "options": "A. 5以下\nB. 4以下\nC. 3以下\nD. 2以下\nE. 1以下",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在急性胰腺炎的诊断中，以下哪种生化指标异常提示可能为重症胰腺炎？",
+        "options": "A. 高血糖\nB. 低钙血症\nC. 血、尿淀粉酶显著升高\nD. 代谢性碱中毒\nE. 血小板计数明显下降",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在胆道蛔虫病的临床表现中，下列哪一项描述是不正确的？",
+        "options": "A. 中上腹“钻顶样”剧烈绞痛\nB. 突然发病，突然缓解\nC. 可能有蛔虫吐出史\nD. 常伴有中上腹部反跳痛及肌紧张\nE. 可能伴有轻度黄疸",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在原发性肝癌的早期阶段，最常见的转移方式是什么？",
+        "options": "A. 通过肝内血管系统扩散\nB. 通过淋巴系统转移至肺部\nC. 通过淋巴系统转移至锁骨上淋巴结\nD. 直接侵入胸腔\nE. 直接扩散到腹腔",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在排除其他疾病后，以下哪项是诊断原发性肝癌的标准？",
+        "options": "A. AFP大于500μg/L持续2周\nB. AFP大于500μg/L持续4周\nC. AFP大于200μg/L持续2周\nD. AFP大于200μg/L持续4周\nE. AFP大于200μg/L持续6周",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在进行十二指肠引流液检查时，如果发现胆囊液（B胆汁）的流出量显著增加，这可能与以下哪种情况有关？",
+        "options": "A.胆总管上段梗阻\nB.胆囊收缩不良\nC.胆囊摘除术后\nD.Oddi括约肌松弛\nE.慢性胰腺炎",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位45岁的男性患者，患有肝硬化并伴有腹水，计划进行肠内营养支持。在这种情况下，最合适的肠内营养制剂是哪种？",
+        "options": "A.必需氨基酸配方\nB.高糖配方\nC.低蛋白配方\nD.高支链氨基酸配方\nE.高维生素配方",
+        "answer": "D",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "ClinicalDiagnosis"
+    },
+    {
+        "question": "在进行静脉胆道造影术时，胆管显影达到最清晰状态的时间点是（）。",
+        "options": "A. 30分钟\nB. 60分钟\nC. 90分钟\nD. 120分钟\nE. 150分钟",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位25岁的初孕妇，在妊娠36周时因急性乙型肝炎入院。以下哪项措施是不恰当的？",
+        "options": "A.卧床休息，加强营养，避免过劳\nB.静滴红霉素预防感染\nC.静滴葡萄糖液内加维生素C\nD.静滴保肝药\nE.肌注维生素K",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在急性胆囊炎的超声检查中，以下哪些表现是典型的？",
+        "options": "A.胆囊增大、胆囊壁轮廓线模糊，外壁线不规则\nB.胆囊壁弥漫性增厚，增厚的胆囊壁呈增强回声带\nC.胆囊内可见结石强回声后方伴声影\nD.脂肪餐试验胆囊收缩功能差或丧失\nE.超声Murphy征阴性",
+        "answer": "ABCD",
+        "answer_format": "MultipleChoice",
+        "disease_domain": "BiliaryDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "一位肝硬化腹水患者近期出现低热和腹痛症状，腹水量明显增加。腹水检查结果显示：外观淡黄色，比重1.018，蛋白含量25g/L，李凡他试验阳性，细胞总数为800/μl，其中多核细胞占76%。这些临床表现最可能提示并发哪种疾病？",
+        "options": "A. 结核性腹膜炎\nB. 自发性腹膜炎\nC. 门静脉血栓形成\nD. 功能性肾衰竭\nE. 原发性肝癌结节破裂",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "OtherDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在胰泌素的作用下，胰腺分泌的胰液具有以下哪种特点？",
+        "options": "A. 水和HCO3-含量高，酶含量低\nB. 水和HCO3-含量低，酶含量高\nC. 水含量高，HCO3-和酶含量低\nD. 水、HCO3-和酶含量都低\nE. 水、HCO3-和酶含量都高",
+        "answer": "A",
+        "answer_format": "SingleChoice",
+        "disease_domain": "PancreaticDisease",
+        "inquiry_type": "KnowledgeQA"
+    },
+    {
+        "question": "在筛查原发性肝癌时，以下哪种方法被认为是最简便且有效的？",
+        "options": "A. B超\nB. AFP\nC. 腹部CT\nD. 肝MRI\nE. 同位素肝扫描",
+        "answer": "B",
+        "answer_format": "SingleChoice",
+        "disease_domain": "LiverDisease",
+        "inquiry_type": "KnowledgeQA"
+    }
+]
