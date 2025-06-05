@@ -52,5 +52,7 @@ You can change the datasets, models, and prompt_ls. The code will create the eva
    bash metric_mc.sh or bash metric_case.sh
    ```
 
-
+### Copyright Notice
+This dataset is provided for academic research only. Any commercial use is strictly prohibited. All data sources are credited to their original authors or copyright holders. If you believe this dataset infringes your rights, please contact us via:
+Email: yuchong.li@connect.polyu.hk
 
