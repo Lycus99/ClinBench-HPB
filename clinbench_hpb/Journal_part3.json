@@ -1,0 +1,485 @@
+[
+    {
+        "patient_info": "Female, 50 years old, previously healthy. The patient presented with 3 weeks of fatigue, nausea, dark urine, pruritus, and scleral icterus. Medical history includes treatment for Graves disease approximately 20 years previously. No known family history of autoimmune disease. Rare alcohol use, no consumption of herbal products, no new medications, and no illicit drug use. No known viral exposures, recent vaccinations, or recent travel. On examination: jaundiced, epigastric abdominal discomfort, no edema or encephalopathy.",
+        "laboratory_tests": "Blood testing for hepatitis A, B, and C and COVID-19 polymerase chain reaction testing were negative. Additional laboratory data are shown in the Table (not provided in the case).",
+        "imaging_studies": "Abdominal ultrasonography with Doppler findings were normal.",
+        "question": "WHAT WOULD YOU DO NEXT?",
+        "diagnosis": "Request an expedited liver biopsy"
+    },
+    {
+        "patient_info": "Male, 36 years old. The patient presented for evaluation of elevated liver enzymes 2 months after undergoing a liver transplant for acute-on-chronic liver failure due to alcohol-associated hepatitis. He had metabolic comorbidities including obesity (body mass index of 30.6) and dyslipidemia. After the liver transplant, there was no evidence of organ rejection or biliary complications. He was asymptomatic and reported last alcohol use was prior to liver transplant. Vital signs were normal and physical examination revealed a well-healed abdominal surgical scar.",
+        "laboratory_tests": "Serum alcohol level was undetectable. Urine drug screening results were positive for cannabinoids.",
+        "imaging_studies": "Liver ultrasonography findings were normal. Liver biopsy showed 50% to 60% macrovesicular steatosis (normal <5%), mild portal inflammation, scattered apoptotic bodies, and hepatocyte ballooning.",
+        "question": "HOW DO YOU INTERPRET THESE TEST RESULTS?",
+        "diagnosis": "Alcohol-associated liver disease."
+    },
+    {
+        "patient_info": "Male, 55 years old, no significant medical history. Presented with several weeks of malaise and a 6.8-kg weight loss associated with poor appetite. No fevers, night sweats, abdominal pain, emesis, or diarrhea reported. Physical examination revealed a thin habitus; no palmar erythema, spider angiomata, or gynecomastia observed.",
+        "laboratory_tests": "Complete blood cell count and chemistry panel findings were normal. Hepatic panel showed: elevated alkaline phosphatase (209 U/L; ULN, 150 U/L [3.49 μkat/L; ULN, 2.5 μkat/L]), normal total bilirubin (0.4 mg/dL [6.84 μmol/L]), elevated alanine aminotransferase (41 U/L; ULN, 35 U/L [0.68 μkat/L; ULN, 0.58 μkat/L]), normal aspartate aminotransferase (27 U/L [0.45 μkat/L]). α-Fetoprotein (AFP) level was elevated (1252 ng/mL; ULN, 9 ng/mL); levels of carbohydrate antigen 19-9 (<2 U/mL) and carcinoembryonic antigen (2.8 ng/mL) were normal.",
+        "imaging_studies": "Single-phase CT scan of the abdomen revealed: multiple hypodense liver masses with rim enhancement throughout the liver, intussusception of the small bowel, and normal liver contour with no signs of portal hypertension. Triple-phase CT scan revealed: no small bowel abnormalities but demonstrated a 3.3 × 2.8-cm heterogeneously enhancing pancreatic tail mass not seen on the previous single-phase CT.",
+        "question": "WHAT WOULD YOU DO NEXT?",
+        "diagnosis": "Perform an endoscopic ultrasound of the pancreas with fine-needle aspiration"
+    },
+    {
+        "patient_info": "Male, 18 years old, from India, emigrated to the United States 4 weeks earlier. Presented with fever, malaise, and anorexia for 4 days. No prescription, over-the-counter, or herbal medications; alcohol; or illicit drugs reported. On physical examination: afebrile, scleral icterus, and palpable liver edge.",
+        "laboratory_tests": "White blood cell count: 3.9 × 10^9/L. Total bilirubin: 5.6 mg/dL, direct bilirubin: 3.6 mg/dL, alkaline phosphatase: 240 U/L, aspartate aminotransferase: 3322 U/L, alanine aminotransferase: 6114 U/L. Platelet count: 126 000 × 10^9/L, prothrombin time: 17 seconds. Viral hepatitis testing performed. Antinuclear, antismooth muscle, and liver/kidney microsomal antibodies not detected. Immunoglobulin G: 1294 mg/dL (normal), ceruloplasmin: 22 mg/dL (normal).",
+        "imaging_studies": "Right upper quadrant ultrasonography findings: liver span of 16 cm, common bile duct measuring 0.3 cm, patent hepatic vasculature.",
+        "question": "WHAT WOULD YOU DO NEXT?",
+        "diagnosis": "Anti-hepatitis E virus (HEV) IgM testing"
+    },
+    {
+        "patient_info": "Female, 70 years old. The patient has hypertension, atrial fibrillation, congestive heart failure, and gallstones. She presented to the emergency department with 3 days of nausea, vomiting, and abdominal pain. She reported no hematemesis, hematochezia, or melena and had no history of abdominal surgery. On admission, she was afebrile, her blood pressure was 80/60 mm Hg, and heart rate was 122/min. On physical examination, her abdomen was distended, tympanic, and slightly tender to palpation diffusely.",
+        "laboratory_tests": "Blood testing showed a white blood cell count of 10,450/µL (84.1% neutrophils), C-reactive protein level, 9.5 mg/dL; potassium level, 3.0 mEq/L (reference, 3.6-5.2 mEq/L); and creatinine level, 5.57 mg/dL (429.39 µmol/L, up from a baseline level of 0.80 mg/dL [70.72 µmol/L]). Sodium and liver function values were normal.",
+        "imaging_studies": "A non-contrast-enhanced abdominal computed tomography (CT) scan was performed.",
+        "question": "WHAT WOULD YOU DO NEXT?",
+        "diagnosis": "Plan for surgical intervention after intravenous fluid resuscitation in the intensive care unit (ICU)"
+    },
+    {
+        "patient_info": "Female, 58 years old. The patient has a history of intravenous heroin use and chronic inactive hepatitis B virus (HBV) infection with a low serum HBV DNA value, normal liver enzyme values, and no evidence of cirrhosis. Presented to the emergency department with sudden onset of painless jaundice and 8 days of malaise. Last intravenous heroin use occurred 9 days prior to presentation. Not taking any prescription or herbal medications and had not been prescribed suppressive antiviral medication for chronic HBV infection. No history of travel outside the US and no raw meat ingestion. Vital signs, mentation, and physical examination were normal except for scleral icterus.",
+        "laboratory_tests": "Blood testing results: negative for hepatitis C virus RNA, anti-hepatitis A IgM, and HIV antibody. Other selected laboratory values are shown in the Table (details not provided in the case).",
+        "imaging_studies": "Liver ultrasound performed 6 months prior to presentation and a repeat liver ultrasound with Doppler revealed no abnormalities.",
+        "question": "WHAT WOULD YOU DO NEXT?",
+        "diagnosis": "Order testing for hepatitis delta virus (HDV) IgM and IgG antibodies and, if positive, test for HDV RNA"
+    },
+    {
+        "patient_info": "Female, 27 years old. No pertinent medical history. Presented with elevated transaminase levels and a positive hepatitis B surface antigen (HBsAg) test result. Further serologic testing was performed due to elevated liver enzymes and lack of anti-HBs following vaccination.",
+        "laboratory_tests": "Hepatitis B surface antigen (HBsAg) test result: positive. Hepatitis B surface antibody (anti-HBs) testing: initially performed 11 months after hepatitis B virus (HBV) vaccination. Further serologic testing was performed due to elevated liver enzymes and lack of anti-HBs.",
+        "imaging_studies": "Not available",
+        "question": "HOW DO YOU INTERPRET THESE TEST RESULTS?",
+        "diagnosis": "The patient has chronic HBV infection."
+    },
+    {
+        "patient_info": "Male, 68 years old. Diagnosed with chronic hepatitis C genotype 1b 5 years ago. No evidence of advanced liver disease (eg, thrombocytopenia). Hepatitis C was cured with simeprevir and sofosbuvir for 12 weeks. Presents for follow-up.",
+        "laboratory_tests": "Not available",
+        "imaging_studies": "Liver ultrasound showed no signs of cirrhosis, such as nodularity. Vibration-controlled transient elastography (VCTE) performed prior to treatment was negative for significant fibrosis at 6.7 kPa. Follow-up VCTE was performed.",
+        "question": "HOW DO YOU INTERPRET THESE RESULTS?",
+        "diagnosis": "The patient has cirrhosis."
+    },
+    {
+        "patient_info": "Female, 61 years old. The patient has a history of uncontrolled type 2 diabetes mellitus and presented with progressive right upper quadrant abdominal pain of 1 month's duration. The pain was sharp, intermittent without radiation, and not exacerbated by eating. She had no subjective fevers, nausea, vomiting, diarrhea, or weight loss. She had immigrated from Chuuk, Micronesia, to Hawaii 10 years ago and had not traveled overseas since. She denied alcohol use or contact with animals such as pigs. On examination, her temperature was 38.5°C (101.3°F); pulse rate, 104/min; blood pressure, 205/92 mm Hg; and respiratory rate, 33/min with normal saturation. Mild conjunctival icterus and a positive Murphy sign were noted.",
+        "laboratory_tests": "White blood cell count: 16.4 × 109/L (neutrophils, 87.4%; eosinophils, 0.5% [absolute count, 82/μL]); hemoglobin level: 14.9 g/dL; platelet count: 254 × 109/L; aspartate aminotransferase level: 514 U/L; alanine aminotransferase level: 236 U/L; alkaline phosphatase level: 208 IU/L; total bilirubin level: 2.5 mg/dL; direct bilirubin level: 1.1 mg/dL; lipase level: 247 U/L. Results of serologic testing for hepatitis A, B, and C are negative.",
+        "imaging_studies": "Abdominal ultrasound showed no cholecystitis or pancreatobiliary abnormalities. Magnetic resonance cholangiopancreatography was notable for a linear filling defect within the common bile duct extending through the left hepatic duct. During endoscopic retrograde cholangiopancreatography (ERCP), numerous worms were discovered within the biliary trees, with 1 visible outside the ampulla of Vater.",
+        "question": "WHAT WOULD YOU DO NEXT?",
+        "diagnosis": "Prescribe antibiotics followed by anthelmintic therapy"
+    },
+    {
+        "patient_info": "Male, in his 50s. The patient presented with an abdominal skin eruption of 2 days' duration. Medical history includes hepatitis C, cirrhosis, and an orthotopic liver transplant (OLT) 3 years prior, treated with tacrolimus (5 mg, twice daily) and mycophenolate (750 mg, twice daily). Approximately 2½ years post-transplant, he developed gastric outlet obstruction secondary to an infiltrative gastric wall mass associated with plasmablastic posttransplantation lymphoproliferative disorder (pPTLD). Treatment included discontinuation of mycophenolate, reduction of tacrolimus to 0.25 mg daily, and 1 cycle of CHOP chemotherapy (cyclophosphamide, doxorubicin hydrochloride, vincristine sulfate, and prednisone) and lenalidomide, resulting in improvement. Five weeks post-CHOP, he developed an acute-onset abdominal skin eruption without fever or pain.",
+        "laboratory_tests": "Not available",
+        "imaging_studies": "Computed tomographic scan of the abdomen and pelvis showed possible abdominal wall cellulitis.",
+        "question": "WHAT IS YOUR DIAGNOSIS?",
+        "diagnosis": "Post transplantation lymphoproliferative disorder"
+    },
+    {
+        "patient_info": "Female, 64 years old. The patient has borderline resectable pancreatic adenocarcinoma and a history of hormone receptor-positive left-sided breast cancer (treated with lumpectomy and radiation in 2014). She was transferred for management of a displaced percutaneous hepatobiliary drain. Diagnosed with pancreatic adenocarcinoma in September 2019 after developing right upper quadrant pain and jaundice, prompting imaging and endoscopic biopsy of a pancreatic head mass. Established oncologic care in Kentucky and received 1 dose of gemcitabine plus nanoparticle albumin-bound (nab)-paclitaxel in early October 2019. Posttreatment complications included elevated transaminases, significant fatigue, and infusion port thrombosis (right-sided, later removed). She was given 1.5 mg/kg of enoxaparin daily for anticoagulation.",
+        "laboratory_tests": "Not available",
+        "imaging_studies": "Chest computed tomography scan revealed several hypodense lesions in the apex of her heart. Transthoracic echocardiogram showed several discrete, partially mobile frondlike masses originating from her cardiac apex. Cardiac magnetic resonance imaging was requested for further clarification of the findings.",
+        "question": "WHAT IS YOUR DIAGNOSIS?",
+        "diagnosis": "Apical left ventricular thrombus"
+    },
+    {
+        "patient_info": "Female, 66 years old. The patient has a history of chronic hepatitis B infection and hepatocellular carcinoma (HCC). She presented with subacute epigastric pain. Three years prior, she was diagnosed with a solitary HCC and underwent surgical resection with curative intent (pathology: poorly differentiated HCC, 1.6 cm, large vein involvement, T3bNXM0, R0 resection). One and a half years prior, she had elevated α-fetoprotein (AFP) and multiple lung nodules consistent with metastases, treated with nivolumab, achieving biochemical and radiographic complete response. Current symptoms include nonradiating epigastric pain (1 month), nausea, anorexia, water brash, chronic abdominal bloating, and no constitutional or gastrointestinal symptoms.",
+        "laboratory_tests": "Liver function tests, amylase, lipase, and AFP were within normal limits. Hepatitis B virus polymerase chain reaction was undetectable.",
+        "imaging_studies": "Computed tomography with multiphasic liver protocol showed new enlarged mesenteric nodes and diffuse thickening of the gastric body. Esophagogastroduodenoscopy (EGD) identified diffuse inflammation and ulcerations in the gastric body and antrum. Biopsy specimens showed chronic and active mixed inflammatory infiltrate, including intraepithelial lymphocytosis. No overt viral cytopathic effects were observed, and immunostaining results for Helicobacter pylori, cytomegalovirus, and adenovirus were negative.",
+        "question": "WHAT IS YOUR DIAGNOSIS?",
+        "diagnosis": "Immunotherapy-related gastritis"
+    },
+    {
+        "patient_info": "Male, in his 50s. The patient was previously healthy and presented with right upper abdominal pain for 20 days, accompanied by high-grade fever and chills since the first week. No history of trauma or alcohol intake. Clinical examination revealed no icterus or significant lymphadenopathy. Guarding and tenderness in the right upper quadrant; the liver was firm, smooth, and palpable 3 cm below the right costal margin.",
+        "laboratory_tests": "White blood cell counts: 13,200/µL (to convert to × 10^9 per liter, multiply by 0.001). Alkaline phosphatase: 259 U/L (to convert to microkatals per liter, multiply by 0.0167).",
+        "imaging_studies": "Ultrasonography of the abdomen revealed a large hypoechoic area in the right lobe of the liver along with gallstones. A contrast-enhanced computed tomography (CECT) scan was performed (results not specified).",
+        "question": "WHAT IS YOUR DIAGNOSIS?",
+        "diagnosis": "Acute cholecystitis \n intrahepatic perforation of the gallbladder"
+    },
+    {
+        "patient_info": "Female, early 50s. The patient has a history of hepatitis B and was admitted to the hospital with complaints of asthenia, anorexia, and intermittent fever over the past 6 months. The highest recorded temperature was 39°C, which was treatable with antifebrile drugs. Physical examination at admission showed no positive signs of the symptoms.",
+        "laboratory_tests": "Blood samples, fecal occult blood tests, liver function tests, and tests for alpha fetoprotein, carcinoembryonic antigen, and carbohydrate antigen 19-9 had normal results. The patient's erythrocyte sedimentation rate was 84 mm/h (reference range, 0-20 mm/h). Test results were positive for hepatitis B surface antigen, hepatitis B e antibody, and hepatitis B c antibody. Treponema pallidum particle agglutination test results indicated a signal to cutoff ratio of 41.72 (reference range, 0-1). The results of an enzyme-linked immunospot test for tuberculosis (T-SPOT.TB; Oxford Immunotec) were negative.",
+        "imaging_studies": "Ultrasonographic examination revealed multiple lesions in the liver, suggestive of liver metastases. Positron emission tomography/computed tomography showed abnormally intense and high metabolic activity in all of the liver lesions, with a maximum standardized uptake value of 12.1. Abdominal contrast-enhanced computed tomography was performed.",
+        "question": "WHAT IS YOUR DIAGNOSIS?",
+        "diagnosis": "Hepatic tertiary syphilis"
+    },
+    {
+        "patient_info": "Male, 58 years old. The patient is admitted to the cardiac intensive care unit with fevers and night sweats. He has a history of a fall and a large hematoma on his right thigh and buttock.",
+        "laboratory_tests": "White blood cell (WBC) count is elevated to 29,000 cells/µL without a left shift, and serum hemoglobin level is 9.3 g/dL. Mildly elevated troponin levels without electrocardiographic changes. On the fourth hospital day, his WBC count increases to 44,000 cells/µL and his hemoglobin level decreases to 6.6 g/dL.",
+        "imaging_studies": "Transthoracic echocardiogram reveals valvular vegetations. Chest radiograph is unrevealing. Abdominal computed tomography (CT) scan obtained to evaluate for blood loss reveals an abnormal gallbladder finding.",
+        "question": "WHAT WOULD YOU DO NEXT?",
+        "diagnosis": "Do nothing for the CT scan findings"
+    },
+    {
+        "patient_info": "Male, 63 years old. The patient is admitted for evaluation of recurrent abdominal pain and a 2-month history of tender nodules on the extremities. He has a history of hepatitis B, hepatocellular carcinoma, and idiopathic pancreatitis. The lesions are initially very painful and slow to resolve. New lesions tend to appear with, or immediately after, episodes of acute pancreatitis. Examination of the skin reveals erythematous subcutaneous nodules symmetrically distributed on the bilateral lower and upper extremities, primarily on the lower legs and feet. One of the largest nodules has a small amount of yellow, oily discharge. The patient is afebrile and reports nausea, vomiting, and arthralgias. Previous treatments have included incision and drainage of a nodule on the right foot as well as oral and intravenous administration of antistaphylococcal antibiotics for presumed cellulitis.",
+        "laboratory_tests": "Elevated levels of serum lipase (2700 IU/L) and amylase (3400 IU/L).",
+        "imaging_studies": "Not available",
+        "question": "WHAT WOULD YOU DO NEXT?",
+        "diagnosis": "Perform an incisional skin biopsy"
+    },
+    {
+        "patient_info": "Female, 50s years old. A healthy woman without diabetes or obesity presented for an annual physical examination. Born between 1945 and 1965. Asymptomatic.",
+        "laboratory_tests": "Hepatitis C antibody (anti-HCV) result was positive. Alanine aminotransferase of 34 U/L (reference range, 7-35), aspartate aminotransferase of 28 U/L (reference range, 8-30), total bilirubin of 0.4 mg/dL (reference range, 0.2-1.2), alkaline phosphatase of 95 IU/L (reference range, 30-130), albumin of 4.0 g/dL (reference range, 3.0-16), white blood cell count of 7.1×10^9/L (reference range, 4-10), platelet count of 210×10^9/L (reference range, 150-400), INR of 1.0. Other laboratory values are shown in the Table.",
+        "imaging_studies": "Baseline abdominal ultrasound showed mild increased echogenicity of the liver. The liver was not nodular and the spleen not enlarged.",
+        "question": "HOW DO YOU INTERPRET THESE TEST RESULTS?",
+        "diagnosis": "This patient is infected with the most common strain of HCV in the United States and it has lower response rates to interferon-based therapy."
+    },
+    {
+        "patient_info": "Male, 31 years old, Asian. The patient has hepatitis C cirrhosis complicated by variceal hemorrhage and ascites. He was a graduate student who developed decompensated cirrhosis with variceal hemorrhage, leading to hypovolemic shock from acute blood loss. Treated with blood transfusions and variceal banding procedures. Transferred to the liver unit on hospital day 25 with mostly recovered liver test abnormalities and no further gastrointestinal bleeding. Physical examination noted jaundice, alert and oriented with normal cognitive function, no abdominal tenderness, and mild ascites. No confusion, insomnia, or decreased mental alertness. Cognitive capacity and mental status remained stable during evaluation with no symptoms of encephalopathy. Managed with oral diuretics for ascites.",
+        "laboratory_tests": "Serum ammonia level measured as part of routine liver transplant evaluation (specific value not provided). Other laboratory test results not available.",
+        "imaging_studies": "Not available",
+        "question": "HOW DO YOU INTERPRET THESE TEST RESULTS?",
+        "diagnosis": "The patient does not have hepatic encephalopathy so no treatment is necessary."
+    },
+    {
+        "patient_info": "White woman in her 60s with undifferentiated connective tissue disease and longstanding pulmonary arterial hypertension. The patient reported no alcohol or drug use and no personal or family history of liver disease. Medications included diltiazem and furosemide. On physical examination, her blood pressure was 108/54 mm Hg and pulse was 64/min. She was anicteric with mild bilateral temporal wasting and jugular venous distension. Further pertinent findings included regular heart rate and rhythm with an accentuated P2, grade 1/6 holosystolic murmur in the left lower sternal border, full bulging abdomen with flank dullness, and scattered spider angiomata on her chest.",
+        "laboratory_tests": "Not available (results including diagnostic paracentesis are mentioned but not detailed in the case).",
+        "imaging_studies": "Doppler ultrasound revealed an irregular liver echo pattern without lesions, normal common bile duct, patent portal and hepatic vasculature, splenomegaly, and ascites.",
+        "question": "HOW DO YOU INTERPRET THESE TEST RESULTS?",
+        "diagnosis": "Her ascites is primarily due to chronically elevated pressures on the right side of her heart."
+    },
+    {
+        "patient_info": "Male, 26 years old. The patient was admitted for fever (temperature, 39°C) and right hypochondrium abdominal pain, accompanied by nausea, vomiting, and asthenia. Medical history includes pharyngitis associated with scarlet fever treated with clarithromycin (500 mg twice daily for a week) one month prior. No throat culture or rapid antigen test for group A streptococci was performed. Physical examination revealed mild right upper abdominal quadrant tenderness. The patient met all criteria for systemic inflammatory response syndrome.",
+        "laboratory_tests": "Blood tests showed a marked increase in inflammatory markers. Blood and urine cultures were negative. Serological detection test for echinococcosis was negative. Carcinoembryonic antigen, carbohydrate antigen 19-9, and α-fetoprotein blood levels were normal. Serological markers for hepatitis B virus, hepatitis C virus, and human immunodeficiency virus were negative. Study of leukocyte populations and immunoglobulin electrophoresis did not reveal any disorder of the immune system.",
+        "imaging_studies": "Chest radiograph was normal. Abdominal ultrasonography revealed a 6-cm, solid, inhomogeneous mass in liver segment 6. Contrast-enhanced computed tomographic scan of the abdomen showed the lesion was hypodense with numerous septa without contrast enhancement. Magnetic resonance imaging evidenced a mixed solid-liquid lesion, with some septa delimiting large areas of necrosis.",
+        "question": "WHAT IS THE DIAGNOSIS?",
+        "diagnosis": "Hepatic abscess"
+    },
+    {
+        "patient_info": "Female, 89 years old. The patient presented with abdominal pain for 2 days, localized to her right abdomen (both upper and lower quadrants), with acute tenderness to palpation. She had some nausea and vomiting.",
+        "laboratory_tests": "Not available",
+        "imaging_studies": "Ultrasonographic findings gave concern for acute cholecystitis. A computed tomographic scan was ordered after admission to the hospital.",
+        "question": "WHAT IS THE DIAGNOSIS?",
+        "diagnosis": "Gallbladder volvulus"
+    },
+    {
+        "patient_info": "White woman, late 40s. The patient presented for a routine annual checkup with abdominal distention, early satiety, and heat intolerance. Physical examination revealed orthostatic hypotension and an immobile, nontender abdominal mass.",
+        "laboratory_tests": "Not available",
+        "imaging_studies": "Abdominal computed tomographic scan was obtained. Findings led to surgical resection.",
+        "question": "WHAT IS THE DIAGNOSIS?",
+        "diagnosis": "Pheochromocytoma"
+    },
+    {
+        "patient_info": "Female, 30 years old, immigrant from Laos. The patient was referred for right upper quadrant abdominal pain with associated nausea and vomiting. No previous medical or surgical history. On examination, mild right upper quadrant tenderness to palpation without signs of peritonitis.",
+        "laboratory_tests": "Routine laboratory values were within normal limits, except for a mildly elevated amylase level.",
+        "imaging_studies": "Abdominal magnetic resonance cholangiopancreatography revealed a cystic abnormality in the region of the porta hepatis. A computed tomographic scan was obtained to further delineate the abnormality.",
+        "question": "WHAT IS THE DIAGNOSIS?",
+        "diagnosis": "Type I choledochal cyst"
+    },
+    {
+        "patient_info": "Male, 37 years old. A previously healthy man presented for a routine physical examination during which a pulsatile mass in his mid-epigastrium was palpated.",
+        "laboratory_tests": "Not available",
+        "imaging_studies": "Abdominal ultrasonography showed a well-defined hypoechoic lesion abutting the pancreas. Further imaging by contrast-enhanced computed tomography (CT) and 3-dimensional reconstruction revealed a well-circumscribed, 3-cm lesion surrounding the common hepatic artery. The lesion demonstrated patchy arterial enhancement, and a small irregularity of the common hepatic artery was present within the lesion. Endoscopic ultrasonography demonstrated a hypoechoic, well-defined mass.",
+        "question": "WHAT IS THE DIAGNOSIS?",
+        "diagnosis": "Angioleiomyoma"
+    },
+    {
+        "patient_info": "Female, 64 years old. The patient presented to the emergency department with a 1-day temperature of 38.9°C (102°F), accompanied by cough, nausea, and arthralgias. She denied dyspnea, emesis, and chest or abdominal pain. Medical history includes non-Hodgkin lymphoma, chronic diarrhea, myelodysplastic syndrome (treated with chemotherapy), and Behçet syndrome (treated with prednisone acetate, 6 mg daily). Surgical history includes a right-sided hemicolectomy due to recurrent right-sided diverticulitis. Vital signs: blood pressure 150/59 mm Hg, heart rate 127 bpm, respiratory rate 20 breaths/min, temperature 38.5°C (101.3°F) (oral), oxygen saturation 99% (room air). Physical examination was unremarkable.",
+        "laboratory_tests": "White blood cell count 2700/µL (reference range: 4800-10 800/µL), lactic acid 19.8 mg/dL, platelet count 72×103/µL. Urinalysis: trace blood, positive nitrite, +1 leukocyte esterase, white blood cell count 2000/µL to 5000/µL. Urine culture positive for Klebsiella pneumoniae. Blood culture positive for Enterobacter sakazakii (Cronobacter sakazakii).",
+        "imaging_studies": "Computed tomographic scan of the abdomen/pelvis with contrast showed marked inflammatory changes involving the gallbladder with air within the lumen. Previous scans had shown multiple large gallstones (no longer present). There is an intimate association of the gallbladder fundus with the adjacent hepatic flexure of the colon, with loss of a defined plane between the two structures.",
+        "question": "WHAT IS THE DIAGNOSIS?",
+        "diagnosis": "Cholecystocolonic fistula"
+    },
+    {
+        "patient_info": "Female, 60s. The patient presented with abdominal pain and increasing asthenia over the previous 4 months. She reported a weight loss of 40 kg during the previous 12 months concomitant with depression. Medical history includes cardiac arrhythmia, hypertension, and sigmoidectomy for diverticulitis. Current medications: lasixil, amiodipine, amiodarone, and atenolol. On examination, the patient appeared well with normal vital signs. The abdomen was soft without distension, but a positive Murphy sign was observed.",
+        "laboratory_tests": "White blood cell count: 11400/µL (11.4 ×109/L), hemoglobin: 11.5 g/dL (115 g/L), platelet count: 233 ×103/µL (233 ×109/L). C-reaction protein: 41 mg/L (390.484 nmol/L). Renal and liver function, coagulation, blood electrolytes, total protein, albumin, antigen carcino embryonnaire, carbohydrate antigen 19-9, carbohydrate antigen 125, and β2 microglobulin tests were normal.",
+        "imaging_studies": "Ultrasonography revealed a 10 × 8-cm mass in the right hypochondrium. Abdominal computed tomography scan showed a thickened gallbladder wall infiltrating the liver parenchyma and 3 perihepatic lymph nodes. Magnetic resonance imaging indicated a greatly enlarged gallbladder with a thickened wall without invading adjacent structures, a continuous mucosal line, and a hypoattenuated intramural nodule. Esophagogastroduodenoscopy and colonoscopy were normal.",
+        "question": "WHAT IS YOUR DIAGNOSIS?",
+        "diagnosis": "Xanthogranulomatous cholecystitis (XGC)"
+    },
+    {
+        "patient_info": "Female, 75 years old. Previously healthy. Medical history significant for hypertension and a previous laparoscopic cholecystectomy approximately 6 years ago. Presented with abdominal pain and jaundice, revealing a duodenal mass.",
+        "laboratory_tests": "Total bilirubin level of 6.8 mg/dL, aspartate aminotransferase level of 394 U/L, alanine transaminase level of 746 U/L, and alkaline phosphatase level of 1146 U/L.",
+        "imaging_studies": "High-resolution computed tomography revealed a 3 × 4-cm circumferential lesion in the second and third portions of the duodenum involving the pancreatic head. Multiple nodules were noted along the peritoneal reflection of the right paracolic gutter.",
+        "question": "WHAT IS YOUR DIAGNOSIS?",
+        "diagnosis": "Dropped gallstones"
+    },
+    {
+        "patient_info": "Male, in his 50s. Previously underwent renal transplantation for polycystic kidney disease. Presented with worsening chronic malaise, fatigue, dyspnea, early satiety, and abdominal distention with extreme discomfort.",
+        "laboratory_tests": "Not available",
+        "imaging_studies": "Abdominal magnetic resonance image (Figure1A) revealed a giant multinodular mass (Figure 1B).",
+        "question": "WHAT IS YOUR DIAGNOSIS?",
+        "diagnosis": "Polycystic liver disease"
+    },
+    {
+        "patient_info": "Female, 57 years old. The patient has a medical history of recurrent biliary colic and was admitted with symptoms consistent with mild gallstone pancreatitis.",
+        "laboratory_tests": "Total bilirubin: 4.74 mg/dL (to convert to millimoles per liter, multiply by 17.104). Amylase: 1,041 U/L (to convert to microkatals per liter, multiply by 0.0167).",
+        "imaging_studies": "Abdominal ultrasonography scan demonstrated gallstones and a mildly dilated common bile duct (CBD). Magnetic resonance imaging of the abdomen confirmed these results and revealed choledolithiasis. Intraoperative cholangiography revealed an unusual anatomical variant and subsequent transcytic choledochoscopy demonstrated a double lumen at the distal CBD. Multiple gallstones were found within a dilated region of cystic duct.",
+        "question": "WHAT IS YOUR DIAGNOSIS?",
+        "diagnosis": "Choledochal cyst \n long common biliopancreatic channel"
+    },
+    {
+        "patient_info": "Male, 40 years old. The patient was admitted with acute abdominal pain on the right flank, with a similar episode occurring 1 month prior that improved spontaneously. Physical examination revealed no clinical abnormalities, but the patient reported dysuria and abnormally frequent urination. Medical history was uneventful, with no weight loss. Family history includes the patient's father dying of pancreatic carcinoma at the age of 65 the previous year.",
+        "laboratory_tests": "Laboratory values, including cancer antigen 19-9 and carcinoembryonic antigen levels, were normal.",
+        "imaging_studies": "Computed tomographic scan of the abdomen revealed nephrolithiasis with a 4-mm kidney stone on the right side and a slightly congested right kidney. Incidentally found a 10 × 10 × 8-cm mass in the tail of the pancreas, as well as thrombosis of the splenic vein.",
+        "question": "WHAT IS YOUR DIAGNOSIS?",
+        "diagnosis": "Hydatid cyst of the pancreas"
+    },
+    {
+        "patient_info": "Male, 64 years old, from the Philippines. The patient presented with 5 months of progressive fatigue, worsening jaundice, and a 13-kg weight loss. He denied fever, chills, and abdominal pain.",
+        "laboratory_tests": "Total bilirubin level of 14.4 mg/dL, mildly elevated transaminases, white blood cell count of 13,300/mL with a normal differential. Serum carcinoembryonic antigen level was 1.9 ng/mL, cancer antigen 19-9 level was 293 U/mL. QuantiFERON (interferon-γ release assay), serum cryptococcal antigen, and serum Histoplasma capsulatum antigen results were all negative. Aerobic, anaerobic, mycobacterial, and fungal cultures from the CT-guided liver biopsy were negative.",
+        "imaging_studies": "CT of the abdomen and pelvis demonstrated a heterogeneous enhancing hepatic hilar mass (4.4 × 4.3 × 3.5 cm) with extensive intrahepatic biliary ductal dilatation; the gallbladder was calcified. CT scan of the chest demonstrated a 7-mm left upper lobe partially calcified nodule and cardiophrenic and gastroesophageal lymphadenopathy. Endoscopic retrograde cholangiopancreatography demonstrated focal biliary strictures involving the right and left hepatic ducts. Endoscopic ultrasonography with fine-needle aspirates revealed inflammatory cells with granulomatous changes. Laparoscopic biopsy of several hepatic lesions demonstrated necrotizing granulomatous inflammation with giant cells and central necrosis. Grocott methenamine silver and acid-fast bacilli staining were negative for fungal or mycobacterial organisms, respectively.",
+        "question": "WHAT IS YOUR DIAGNOSIS?",
+        "diagnosis": "Hepatic tuberculosis"
+    },
+    {
+        "patient_info": "Female, 57 years old. The patient presented to the emergency department with a 1-day history of upper abdominal pain localized to the epigastrium, with acute onset that prevented her from working for the rest of the day. No association between the pain and eating. No history of nausea, vomiting, diarrhea, melena, hematochezia, constipation, or fevers. No alcohol abuse or smoking history. Medical history includes dyslipidemia and a transient ischemic attack 3 years prior. No prior colonoscopy or gastroscopy. Medications: atorvastatin and acetylsalicylic acid. Past operation: carpal tunnel syndrome treatment. Occupation: sheep breeder with close animal contact (8-12 hours/day). Physical examination: normal heart and lungs, soft abdomen with epigastric tenderness.",
+        "laboratory_tests": "Normocytic anemia (hematocrit 28.1%, hemoglobin 9.3 g/dL). Normal white blood cell count (7600/μL). Complete metabolic panel results were normal.",
+        "imaging_studies": "Abdominal radiography was performed. Further details not available.",
+        "question": "WHAT IS YOUR DIAGNOSIS?",
+        "diagnosis": "Gallstone"
+    },
+    {
+        "patient_info": "Male, 51 years old. The patient presented with a 2-day history of right upper quadrant abdominal pain. He underwent a laparoscopic cholecystectomy. Postoperatively, he experienced persistent mild abdominal pain and later returned with progressive abdominal pain, nausea, and vomiting. He denied fever and chills. Physical examination revealed mild abdominal tenderness in the left lower quadrant.",
+        "laboratory_tests": "Laboratory findings were unremarkable.",
+        "imaging_studies": "Ultrasonography of the abdomen's right upper quadrant showed gallbladder wall thickening with gallstones in the neck of the gallbladder consistent with acute calculous cholecystitis. Computed tomography (CT) of the abdomen showed a 2.5-cm calcified mass with adjacent inflammatory changes in the left hemiabdomen that was most consistent with a lost gallstone. A second abdominal CT was performed.",
+        "question": "WHAT IS YOUR DIAGNOSIS?",
+        "diagnosis": "Gallstone ileus"
+    },
+    {
+        "patient_info": "Young adult, male (implied by 'him'). The patient presented with a progressively growing abdominal lump causing dull ache and heaviness. Ten weeks prior, he was hospitalized and conservatively managed for acute pancreatitis. He has a history of prolonged alcohol abuse. Physical examination revealed stable vital signs, normothermia, and a nontender, nonpulsatile, fixed lump in the upper abdomen.",
+        "laboratory_tests": "Routine blood test revealed leukocytosis (white blood cell count of 12,000/μL). Liver and kidney function test results were unremarkable. Serum amylase level was 487 U/L (normal range, 28-100 U/L).",
+        "imaging_studies": "Contrast-enhanced computed tomography (CT) scan of the abdomen was performed. Results not specified in the case.",
+        "question": "WHAT IS YOUR DIAGNOSIS?",
+        "diagnosis": "Pancreatic pseudocyst"
+    },
+    {
+        "patient_info": "Male, 36 years old. The patient sought care after 1 week of right upper quadrant and epigastric abdominal pain. The pain was dull, constant, at times radiated to his back, and was worse postprandially. He denied nausea, vomiting, fever, or chills. On initial examination, he was afebrile with moderate tenderness in the right upper quadrant, without guarding or rebound. A right upper quadrant mass was visible and palpable.",
+        "laboratory_tests": "White blood cell count was 16.3 x 10^9 uL. Results of liver function tests were normal.",
+        "imaging_studies": "Computed tomographic scan of the abdomen showed a markedly thickened and heterogeneous enhancing gallbladder wall. Gallbladder ultrasound revealed a grossly abnormal gallbladder with a thickened and hypereperic wall. An open cholecystectomy was performed, revealing a hard and extremely edematous gallbladder with a thickened wall and a small lumen full of pigmented stones.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Acute Cholecystitis \n Chronic Cholecystitis"
+    },
+    {
+        "patient_info": "Male, 27 years old. The patient presented with a 2-year history of progressive painless abdominal distention. Clinically, he was thin, had normal vital signs, and did not have pallor, jaundice, or lymphadenopathy. The abdomen revealed a huge mass causing marked distention in the upper abdomen, mostly in the right upper quadrant with minimal deep tenderness.",
+        "laboratory_tests": "Routine blood tests including liver function test, tumor markers, Echinococcus and Entamoeba serology, lipase level, and amylase level were all within normal limits.",
+        "imaging_studies": "Ultrasonography and computed tomography revealed a huge cystic lesion of the liver. Operative findings included hypertrophied caudate lobe, tense and distended liver with stretched porta hepatitis, and distorted anatomy.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Mucinous Cystadenoma of the Liver"
+    },
+    {
+        "patient_info": "Male, 66 years old. The patient is otherwise healthy and presented with a palpable lump in his right flank. He denied fever, chills, or constitutional symptoms and had no history of trauma. Medical history includes polycystic kidney disease. Surgical history: laparoscopic cholecystectomy 3 years earlier for acute gangrenous cholecystitis with cholelithiasis and excision of a lipoma from the right side of the abdominal wall 1 year earlier. On examination, the mass was approximately 10×5 cm and mobile, with no overlying erythema, tenderness, ecchymosis, or induration. Other physical examination results were unremarkable.",
+        "laboratory_tests": "Not available",
+        "imaging_studies": "Ultrasonography (US) and computed tomography (CT) were performed to evaluate the etiology of the abscess. The US image and CT scan showed a complex retroperitoneal mass just behind the right kidney. The soft-tissue inflammation extended to the skin.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Retroperitoneal Retained Gallstone"
+    },
+    {
+        "patient_info": "Male, 34 years old. The patient presented with gastrointestinal bleeding related to esophageal varices in 2002. The varices were controlled with endoscopic ligation. Evaluation revealed extrahepatic portal vein thrombosis with normal findings on liver biopsy.",
+        "laboratory_tests": "Increased alkaline phosphatase level; no other laboratory abnormalities of the liver were found, including the serum bilirubin level.",
+        "imaging_studies": "Computed tomographic cholangiography documented intrahepatic biliary ductal dilation. Computed tomographic portography demonstrated a patent intrahepatic portal vein and a patent confluence of the splenic and superior mesenteric veins, but with an occluded portal vein between the confluence and the intrahepatic portal vein with extensive venous collaterals.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Portal Hypertensive Biliopathy"
+    },
+    {
+        "patient_info": "35-year-old Hispanic man. The patient presented to the emergency department with a 5-week history of abdominal pain radiating from the right upper quadrant to his back. He denied nausea, vomiting, fevers, chills, or changes in bowel habits. Medical history includes non-insulin-dependent diabetes (managed with metformin and pioglitazone). Social history: smokes 5-6 cigarettes per day, denies alcohol use. Physical examination revealed right upper quadrant tenderness; ocular examination was negative for sclera icterus.",
+        "laboratory_tests": "Total bilirubin: 1.8 mg/dL, indirect bilirubin: 1.0 mg/dL. Remainder of liver function tests were within the reference range. Complete blood cell count: white cell count of 5.2 without a left shift.",
+        "imaging_studies": "Preoperative gallbladder ultrasound demonstrated a complex heterogeneous mass in the gallbladder fossa (5.4×3.1×4.6 cm), with no common bile duct dilatation. Magnetic resonance imaging obtained preoperatively (details not specified). Pathology specimen obtained during the operation (details not specified).",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Xanthogranulomatous Cholecystitis"
+    },
+    {
+        "patient_info": "Male, 71 years old. The patient was admitted for a routine checkup, during which an incidental cystic mass in the liver was discovered. Past medical history includes obesity (BMI 34.7), 1.4 oz daily alcohol consumption since adolescence, atrial fibrillation, type 2 diabetes mellitus, and past exposure to an endemic zone of hydatid disease.",
+        "laboratory_tests": "Blood analysis showed an elevated serum level of γ-glutamyltransferase (90 U/L). Liver function tests, complete blood cell count, level of tumor markers, and serologic tests for amoebae and hydatid disease were within normal ranges.",
+        "imaging_studies": "Computed tomography revealed a dysmorphic liver and a 5-cm septated cystic mass of segment 8 with peripheral heterogeneous enhancement in portal and delayed phases, without enhancement in the arterial phase. Internal septations were present, but no calcifications in the wall. No portal hypertension was observed. Magnetic resonance imaging was performed but was not contributory.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Cystic Hepatocellular Carcinoma"
+    },
+    {
+        "patient_info": "Female, 83 years old. The patient presented with nearly 1 month of mild, intermittent right upper quadrant pain and noticed a slowly growing mass in this area. She denied fever, chills, nausea, or a history of trauma. Physical examination revealed a fluctuant, palpable mass in the right upper quadrant with overlying erythema and mild tenderness to palpation.",
+        "laboratory_tests": "White blood cell count of 13.4 million/µL (to convert to ×109/L, multiply by .001).",
+        "imaging_studies": "Noncontrast abdominal computed tomography demonstrated a large hiatal hernia, small bilateral pleural effusions, and a right anterior abdominal wall subcutaneous lesion that was approximately 5 × 9 cm. In addition, there were multiple large gallstones within an edematous gallbladder with pericholecystic fat stranding.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Cholecystocutaneous Fistula"
+    },
+    {
+        "patient_info": "Female, 28 years old, gravida 4, para 3, aborta 0 (35 weeks). The patient presented with a 36-hour history of acute onset of postprandial right upper quadrant pain, nausea, and vomiting. She described similar episodes of this pain during the preceding month. Physical examination revealed right upper quadrant tenderness, temperature 36.2°C.",
+        "laboratory_tests": "White blood cell count 7.1×109/L. Liver function tests were normal.",
+        "imaging_studies": "Ultrasonography of the right upper quadrant showed a distended gallbladder with multiple stones. Findings in Figure 1 and Figure 2 were noted during surgery (perihepatic adhesions and inability to visualize the gallbladder).",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Gallbladder volvulus"
+    },
+    {
+        "patient_info": "Female, 27 years old. The patient was admitted on an emergency basis with acute pain in the right upper abdominal quadrant, nausea, and vomiting for the previous 3 days. Her medical history was normal. On physical examination, she was dehydrated, with a positive Murphy sign and mild fever.",
+        "laboratory_tests": "Blood cell count was normal. Blood chemistry results demonstrated mild hyperbilirubinemia (total bilirubin level: 1.8 mg/dL, direct bilirubin level: 1.6 mg/dL) and mildly elevated alkaline phosphatase (150 U/L) and γ-glutamino-transpeptidase (105 U/L) levels.",
+        "imaging_studies": "Abdominal ultrasonography revealed cholelithiasis and a cystic mass in contact with the second portion of the duodenum containing stones. The distal common bile duct was dilated (maximum diameter: 1.4 cm). Endoscopy revealed a smooth, round mass protruding into the lumen and obstructing the second portion of the duodenum. Computed tomographic scan of the abdomen showed cholelithiasis and a cystic mass containing stones, obstructing the second portion of the duodenum, and causing distention of the stomach and the proximal duodenum.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Choledochocele"
+    },
+    {
+        "patient_info": "Male, 89 years old. The patient presented with recurrent upper abdominal pain, jaundice, rigors, and vomiting. His medical history included type 2 diabetes mellitus, myocardial infarction, and an abdominal aortic aneurysm under regular ultrasonographic surveillance. On examination, a nontender pulsatile mass was palpable midabdomen.",
+        "laboratory_tests": "Bilirubin, 3.4 mg/dL; alkaline phosphatase, 739 U/L; alanine transaminase, 120 U/L; amylase, 127 U/L; C-reactive protein, 77 mg/L; white blood cell count, 10 400/µL; hemoglobin, 11.1 g/dL. (Conversion factors provided for bilirubin, alkaline phosphatase, alanine transaminase, amylase, C-reactive protein, white blood cell count, and hemoglobin). Later, peripheral neutrophilia was noted (16 680/µL).",
+        "imaging_studies": "Abdominal ultrasonographic and computed tomographic scans showed multiple stones within a dilated common bile duct and an uncomplicated 9-cm infrarenal abdominal aortic aneurysm. Endoscopic retrograde cholangiopancreatography (ERCP) confirmed the presence of 2 large stones impacted at the distal end of the common bile duct and noted a periampullary duodenal diverticulum. A subsequent urgent computed tomographic scan was obtained, preceded by an anteroposterior scout radiograph.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Jejunal Diverticular Perforation Secondary to Delayed Distal Migrationof Biliary Endoprosthesis"
+    },
+    {
+        "patient_info": "Female, 70 years old. The patient experienced sharp abdominal pain in the left lower quadrant for 7 hours, accompanied by vomiting. Bowel function was normal, and she had no high temperature at home. Medical history includes hypertension (treated) and type 2 diabetes mellitus (controlled with oral therapy). On examination: temperature 39.6°C, abdomen tender to deep palpation with mild resistance, no rebound tenderness, barely audible bowel sounds. Digital rectal examination revealed stools without blood.",
+        "laboratory_tests": "Blood tests: normal white cell count and C-reactive protein level, slight increase in total bilirubin (1.39 mg/dL) and creatinine (1.27 mg/dL), significant increase in aspartate aminotransferase (518 U/L) and alanine aminotransferase (215 U/L).",
+        "imaging_studies": "Abdominal radiograph: normal, no substantial free intra-abdominal gas. Abdominal CT: free retroperitoneal air in the celiac area, devastation at the hepatic hilum; gas surrounded the portal vein and splenic vein, spreading along the periportal spaces inside the hepatic parenchyma up to the extremity of the liver. Thick-walled gallbladder surrounded by a liquid film with minimal calcified opacity inside. Little fluid in the Douglas space and a small amount around the liver.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Necrosis of the Bile Duct System"
+    },
+    {
+        "patient_info": "Male, 63 years old. History of diabetes mellitus and liver transplantation 2 years prior to admission. Presented with severe abdominal pain, jaundice, and vomiting 2 days after endoscopic retrograde cholangiopancreatography for investigation of increasingly abnormal liver function test results. No history of cardiac disease. No fever in the last days prior to admission. Physical examination revealed diffuse abdominal tenderness but no rebound tenderness or guarding. Vital signs were normal except for tachycardia (heart rate, 120 beats/min).",
+        "laboratory_tests": "Total bilirubin level: 32.2 mg/dL; lactate level: 157.7 mg/dL.",
+        "imaging_studies": "Computed tomography of the abdomen and pelvis was performed. Results not available.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Portal Vein Gas Associated With Pneumatosis Intestinalis"
+    },
+    {
+        "patient_info": "Male, 63 years old. The patient had a history of stage IV metastatic melanoma arising from the back and subsequently metastatic to the cervical nodes, brain, and stomach. Metastatic lesions were managed with chemotherapy, interleukin 2, gamma-knife radiotherapy, and partial gastrectomy, rendering the patient free of disease for 8 years. The patient remained asymptomatic at the time of surveillance staging.",
+        "laboratory_tests": "Not available",
+        "imaging_studies": "Surveillance staging revealed lesions on his gallbladder with increased signal on positron emission tomography. Computed tomography demonstrated abnormal frondlike gallbladder wall nodularity with eccentric masses within the gallbladder lumen.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Primary Adenocarcinoma"
+    },
+    {
+        "patient_info": "Female, 32 years old. No recent contraceptive use or significant medical history. Presented with 2 episodes of intra-abdominal hemorrhage, severe posterolateral pain on the right side of the neck, mild generalized abdominal pain, and later worsening abdominal pain with right shoulder pain. No history of abdominal trauma. Diagnosed with ectopic pregnancy of approximately 5 weeks' gestation.",
+        "laboratory_tests": "Hemoglobin level of 8.0 g/dL (80 g/L), increased human chorionic gonadotropin level of 1500 mIU/mL (1500 IU/L). Follow-up human chorionic gonadotropin level remained elevated at 1600 mIU/mL (1600 IU/L). Hemoglobin level dropped from 9 g/dL (90 g/L) to 6 g/dL (60 g/L) during subsequent evaluation.",
+        "imaging_studies": "Transvaginal ultrasonography failed to show intrauterine products of conception. Computed tomographic (CT) scan showed a large perihepatic clot.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Ruptured Ectopic Pregnancy"
+    },
+    {
+        "patient_info": "Male, 18 years old. The patient had a 3-month history of worsening diffuse abdominal pain irradiating to the back, abdominal distension, malaise, weight loss (10 kg), and diarrhea. Six months before that, he presented with bilateral exophthalmos of uncertain origin (ie, an absence of endocrine or intracranial pathologies).",
+        "laboratory_tests": "Thyroid function test results: thyrotropin level, 1230 mIU/L; free triiodothyronine level, 380 pg/dL; free thyroxine level, 12.9 ng/dL. Liver function test results: albumin level, 4.1 g/dL; hemoglobin level, 9.1 g/dL. White blood cell count was normal. Serum tumor markers were within the normal range, except for cancer antigen 125 level, which was elevated at 145.5 U/mL. Neuron-specific enolase, gastrin, and chromogranin A serum levels were normal (6.5 ng/mL, 72 pg/mL, and 34.632 pmol/mL, respectively).",
+        "imaging_studies": "Computed tomographic scan of the abdomen revealed a bulky heterogeneous solid mass (33×27×18 cm) with large necrotic and cystic areas that was located in the abdominal cavity up to the pelvis and that was in close contact with the left hepatic lobe, the posterior surface of the stomach (adjacent to the minor curvature), the pancreatic head, the transverse colon, the mesenteric root, and the retroperitoneal vessels, without clear cleavage planes. The body and the tail of the pancreas were not identifiable. No ascitic fluid, enlarged lymph node, periportal nodule, or liver metastasis was detected. After injection of the contrast medium, the mass was revealed to have intense arterial vascularization.",
+        "question": "What is the Diagnosis?",
+        "diagnosis": "PNET of the Pancreas"
+    },
+    {
+        "patient_info": "Male, 54 years old. The patient has a history of chronic alcoholic pancreatitis and hepatitis. He presented with epigastric pain and melena, with a loss of 6 kg of body weight during the last month. He appeared anemic rather than icteric. Physical examination on admission revealed mild hepatomegaly and upper abdominal tenderness, without splenomegaly or ascites.",
+        "laboratory_tests": "Severe anemia (hemoglobin, 7.6 g/dL). Mild liver dysfunction (aspartate aminotransferase, 130 U/L; alanine aminotransferase, 96 U/L).",
+        "imaging_studies": "Emergent esophagogastroduodenoscopy revealed active bleeding from the papilla of Vater. Abdominal ultrasonography showed that the gallbladder was filled with debris, which color Doppler flow studies indicated was consistent with a blood clot. Enhanced abdominal computed tomographic (CT) scans were performed (results not detailed in the case).",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Pseudoaneurysm"
+    },
+    {
+        "patient_info": "Female, 67 years old. The patient was referred due to a 1-year history of intermittent right upper quadrant pain associated with anorexia and weight loss (5 kg in 6 months). Medical history includes vulvar epidermoid carcinoma (T3G2N0) 6 years ago, treated with vulvectomy, radiotherapy, and curettage, with no recurrence. Also underwent a complicated cholecystectomy with common bile duct exploration 10 years ago (operative records not available). On admission, the patient was afebrile with normal vital signs and slight right upper quadrant tenderness.",
+        "laboratory_tests": "White blood cell count, C-reactive protein level, and liver/pancreatic function test results were within normal ranges.",
+        "imaging_studies": "Positron emission tomographic/computed tomographic scan showed a 1-cm lesion with central fluid density on segment VI of the liver, enhanced with contrast injection and hypermetabolic on PET images.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Abscess Due to a “Lost” Stone During the Previous Cholecystectomy"
+    },
+    {
+        "patient_info": "Female, 50 years old, of Caribbean descent. The patient presented with a history of several months of recurrent postprandial right upper quadrant pain associated with nausea and vomiting.",
+        "laboratory_tests": "White blood cell count and liver function test results were within normal limits. Serologic test results for Echinococcus were negative.",
+        "imaging_studies": "Abdominal ultrasonography and computed tomography scan of the abdomen showed cholelithiasis and a questionable cystic dilatation of the common bile duct. Magnetic resonance cholangiopancreatography revealed a round lesion centered in the hepatic hilum measuring 1.9 × 1.9 × 2.1 cm with thin internal septations. Although it was in proximity to biliary structures, a direct communication was not visualized. There was no evidence of lymphadenopathy.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Cystadenoma of the Cystic Duct"
+    },
+    {
+        "patient_info": "Female, 88 years old. The patient presented to the emergency department with a 2-day history of gradual-onset, increasing right upper quadrant pain with aggravation on movement and cough. No nausea, vomiting, or changes in bowel habits were reported. Medical and surgical history includes hypertension, gout, hypercholesterolemia, hysterectomy, diverticulosis, and hip replacement complicated by deep vein thrombosis. Physical examination revealed normal vital signs and respiratory/cardiac functions. Abdominal examination showed no asymmetry or hernia, present bowel sounds, a palpable tender mass in the right upper quadrant with significant guarding, and a positive Murphy sign. The rest of the abdominal examination was unremarkable.",
+        "laboratory_tests": "White blood cell count: 13600/µL (neutrophil count: 11700/µL). Liver function tests were normal except for mildly raised bilirubin level: 1.8 mg/dL.",
+        "imaging_studies": "Ultrasonography revealed thickening of the gallbladder wall with multiple calculi. Diameter of the common bile duct and the intrahepatic biliary system were normal.",
+        "question": "What is the Diagnosis?",
+        "diagnosis": "Gallbladder Volvulus"
+    },
+    {
+        "patient_info": "Female, 44 years old. The patient complained of progressive nausea, vomiting, and increasing right upper quadrant pain. Approximately 1 month earlier, she had presented to the emergency department with a generalized tonic-clonic seizure. At the time of surgical consultation, she had been experiencing 2 days of nausea, vomiting, and right upper quadrant pain that radiated to the right scapula. She was also severely anorectic because of her symptoms. On physical examination, she was cachectic and had a palpable, distended, tender gallbladder and a tender liver.",
+        "laboratory_tests": "Not available",
+        "imaging_studies": "Computed tomographic scan showed a left temporal hematoma and 2 hyperattenuated lesions located in the left thalamus and left caudate lobe. Subsequent magnetic resonance imaging showed multiple hemorrhagic lesions throughout the brain that were worrisome for metastatic disease. Abdominal computed tomographic scan showed a 2 x 5-cm lesion in the left lobe of the liver with some small scattered lesions of unknown significance. Ultrasound examination of the gallbladder noted the possibility of sludge or polyps. A computed tomographic scan was obtained prior to surgery.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Malignant Melanoma of the Gallbladder"
+    },
+    {
+        "patient_info": "Female, 45 years old. The patient presented with a 3-year history of confusion and seizures refractory to anticonvulsant therapy. She had no history of peptic ulcer disease, nipple discharge, or hypercalcemia. Her neuroglycopenic symptoms were relieved by intravenous glucose administration.",
+        "laboratory_tests": "Serum glucose level of 46 mg/dL, serum insulin level of 4 μIU/mL, C-peptide level of 0.9 ng/mL, proinsulin level of 19.9 pmol/L, negative sulfonylurea screen, serum gastrin level of <25 pg/mL, serum calcium level of 9.6 mg/dL. Postoperative fasting laboratory values: serum glucose level of 44 mg/dL, serum insulin level of 6.6 μIU/mL, C-peptide level of 0.7 ng/mL, negative sulfonylurea screen.",
+        "imaging_studies": "Preoperative transabdominal ultrasound identified a 1-cm hypervascular mass in the body of the posterior pancreas. No additional masses were identified intraoperatively by palpation.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "A Second Insulinoma"
+    },
+    {
+        "patient_info": "Female, 22 years old, previously healthy. The patient presented with a self-palpable left upper quadrant abdominal mass that she had for 6 months. She was otherwise asymptomatic. Physical examination revealed a 6-cm nontender mass in the left hypochondrium.",
+        "laboratory_tests": "Blood test results including complete blood cell counts, renal and liver functions, amylase level, carcinoembryonic antigen level, and alpha-fetoprotein level were all normal.",
+        "imaging_studies": "Plain abdominal radiography revealed a calcified mass lesion. Contrast computed tomography of the abdomen showed a pancreatic tail lesion and incidentally noted a 5-cm lesion at the right lobe of the liver. A whole-body positron emission tomographic scan showed hypermetabolic, heterogeneously enhancing masses at both the pancreatic tail and the right lobe of the liver. No other hypermetabolic lesion was noted in the rest of the body. At laparotomy, a 12-cm cystic tumor was noted at the tail of the pancreas near the splenic hilum and a 6-cm solitary metastatic tumor at segment 7/8 of the liver was found.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Solid Pseudopapillary Carcinoma of Pancreas With Liver Metastasis"
+    },
+    {
+        "patient_info": "Female, 69 years old. The patient had epilepsy and hypertension, and presented with a 5-month history of weight loss (5 kg), vague pain, and discomfort in the lower quadrants of the abdomen. She had no fever, vomiting, or diarrhea and no history of clinical pancreatitis. Physical examination findings were unremarkable.",
+        "laboratory_tests": "General laboratory test results and serum levels of tumor markers were within normal limits.",
+        "imaging_studies": "Ultrasonographic examination revealed a predominantly cystic mass (7 x 6 x 5 cm) in the body and tail of the pancreas. A contrast-enhanced computed tomographic scan showed a well-defined, round, low-density mass in the region of the pancreatic tail, consisting of a predominantly cystic area with corpuscular content. After the injection of contrast medium, enhancement of posterior polypoid lesions and of the external wall was seen.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Retroperitoneal Schwannoma"
+    },
+    {
+        "patient_info": "Male, 69 years old. The patient presented with occasional melena since April 2006. He denied abdominal pain, vomiting, fever, weight loss, or jaundice. Except for mild pallor, the physical examination findings were essentially unremarkable.",
+        "laboratory_tests": "Not available",
+        "imaging_studies": "Upper gastrointestinal endoscopy revealed a bulging ampulla of Vater that bled on touch. The biopsy specimen was suggestive of inflammatory cells. Contrast-enhanced computed tomographic scan of the upper abdomen reported a heterogeneously enhancing tumor in the ampullary region. Endosonography (EUS) was performed for further characterization.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Gastrointestinal Stromal Tumor of the Ampulla of Vater"
+    },
+    {
+        "patient_info": "Female, 34 years old. Previously healthy. The patient was admitted with acute epigastric pain, a palpable abdominal mass, nausea, and weight loss of 2 kg in the last 2 weeks. Physical examination findings: weight 51 kg, height 170 cm, good general health, right upper quadrant tenderness, slight peritoneal symptoms, nondistended abdomen, normal bowel sounds. Body temperature was 38.2°C.",
+        "laboratory_tests": "Leukocyte count slightly elevated at 9.8×10^9/L (reference, <9.5×10^9/L). C-reactive protein level was 18 mg/L (reference, <5 mg/L).",
+        "imaging_studies": "Chest radiograph yielded normal findings. Abdominal sonography revealed a cystic lesion 8×4 cm in greatest diameter next to a small gallbladder, without other intraabdominal pathologic findings. Subsequent magnetic resonance cholangiopancreatography confirmed the cystic lesion. Laparotomy revealed a cystic tumor 8 cm in greatest diameter at the lateral border of the hepatoduodenal ligament.",
+        "question": "What is the Diagnosis?",
+        "diagnosis": "Choledochal Cyst"
+    },
+    {
+        "patient_info": "White, 80-year-old woman. The patient was admitted with postprandial pain in the right hypochondrium for 2 months. Medical history includes arterial hypertension, diabetes mellitus, and hypercholesterolemia for 10 years. Surgical history includes bilateral inguinal herniography.",
+        "laboratory_tests": "Blood test results, including complete blood cell counts, renal and liver functions, amylase level, carcinoembryonic antigen level, and α-fetoprotein level, were all normal.",
+        "imaging_studies": "Abdominal echography revealed a parietal anterior thickening of the gallbladder with a 1.8-cm echogenic intraluminal formation. Computed tomographic scan results were normal.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Neuroendocrine Carcinoma of the Gallbladder"
+    },
+    {
+        "patient_info": "Female, 35 years old. A FEMALE HEPATITIS B CARRIER, had received regular liver screenings by ultrasonography. It had been noted for several years that the gallbladder was difficult to locate, and contracted gallbladder was presumed. More recently, a palpable mass of about 5 cm was detected at the right periumbilical area.",
+        "laboratory_tests": "The laboratory data were normal.",
+        "imaging_studies": "Ultrasonography noted hepatic hilar lymphadenopathy. Further ultrasonography revealed a target mass approximately 4 cm between the liver, right kidney, and duodenal gas. The corresponding enhanced axial computed tomographic scans revealed a hypodense mass with central rim enhancement. The reconstructed coronal computed tomographic images revealed a large gallbladder mass with markedly thickened walls and hypertrophic mucosa. Magnetic resonance imaging clearly demonstrated multiple small cystic lesions within the hypertrophic wall and surrounding the contracted lumen.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Gallbladder adenomyomatosis"
+    },
+    {
+        "patient_info": "Male, 70 years old. The patient visited the emergency department with a 3-day history of right upper quadrant pain. He was febrile (temperature, 37.6°C). He had a history of splenectomy for hereditary spherocytosis at age 40 years and a history of upper gastrointestinal tract bleeding from a gastric ulcer 7 years prior to admission. He had gallstone disease for the last 12 years. His abdomen was soft and tender at the right upper quadrant with a positive Murphy sign.",
+        "laboratory_tests": "White blood cell count was 19×10^9/L.",
+        "imaging_studies": "Abdominal ultrasonographic scan showed acute cholecystitis with gallbladder wall thickening and pericholecystic fluid collection. Chest radiography revealed a mass of the right lower lobe. Further investigation included a biopsy guided by magnetic resonance imaging and computed tomography (results inconclusive).",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Extramedullary Hematopoiesis"
+    },
+    {
+        "patient_info": "Male, 68 years old, white. The patient is otherwise healthy and presented with a 4-day history of hyperthermia, a 6/10 dull pain (analogic pain scale) at the right superior abdominal quadrant, and nausea. Physical examination revealed a temperature of 40.1°C and mild right subcostal tenderness without rebound.",
+        "laboratory_tests": "Perturbation of hepatic enzymes, alteration of renal function, and elevated white blood cell count. Specific values not available.",
+        "imaging_studies": "Ultrasound revealed the presence of gallbladder stones and a round hypoechoic image in the fourth hepatic segment (5 cm in diameter). Abdominal CT scan confirmed the presence of a hypodense image in the liver and revealed gas in the gallbladder.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Cholecystocolonic fistula \n hepatic abscess"
+    },
+    {
+        "patient_info": "Male, 50 years old. The patient has a history of chronic hepatitis C and was undergoing surveillance liver CT for hepatoma monitoring.",
+        "laboratory_tests": "α-fetoprotein level increased from 46.7 ng/mL to 333.7 ng/mL over the monitoring period. Other laboratory tests were not available.",
+        "imaging_studies": "Liver CT scans over a 6-month period revealed a new splenic lesion increasing in size from 2.4 × 2.09 cm to 4.6 × 3.7 cm. Intraoperative ultrasonography showed a complex hypoechoic lesion in the cephalad posterior aspect of the spleen, measuring approximately 4 cm in diameter, with no focal liver lesions detected.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Primary Splenic High-Grade Lymphoma"
+    },
+    {
+        "patient_info": "Male, 57 years old. The patient was admitted for a left cervical and submandibular nodal mass and continuous right-sided abdominal pain. Medical history includes type 2 diabetes mellitus and B-cell chronic lymphocytic leukemia (B-CCL) diagnosed 4 years earlier (stage II according to Rai et al; stage C according to Binet et al). Previous treatments included multiple cycles of intravenous chemotherapy (chlorambucil plus prednisone and fludarabine) and human monoclonal antibodies (anti-CD52 MAbCampath; Bayer HealthCare Pharmaceuticals, Leverkusen, Germany) for CLL, which were unsuccessful.",
+        "laboratory_tests": "Not available",
+        "imaging_studies": "Restaging computed tomographic total body scan showed a new suspicious mass arising from the thickened posterior wall of the gallbladder. The lesion was solid, homogeneous, poorly enhanced, and had a large base that adhered to the liver bed. Ultrasound examination documented liver steatosis, no focal parenchymal lesion or dilatation of the bile ducts, and no biliary sludge or stones, and confirmed a nodular mass of the posterior wall of the gallbladder not infiltrating the liver bed.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Richter Syndrome With Gallbladder Localization"
+    },
+    {
+        "patient_info": "Female, 57 years old. The patient presented with colic pain and jaundice. Twelve years before, she had a hysterectomy with the unexpected histological finding of leiomyosarcoma, and in a 'second-look' procedure, a bilateral salpingo-oophorectomy was done without any evidence of residual tumor.",
+        "laboratory_tests": "Not available",
+        "imaging_studies": "Ultrasonography showed small stones in the gallbladder and a dilated common bile duct; ultrasonographic assessment of the pancreas was difficult because of interposed gas-containing loops. A computed tomographic scan showed, in the portal phase, a round and well-defined mass with inhomogeneous enhancement at the level of the head of the pancreas with dilatation of the main pancreatic duct. Endoscopic ultrasonography confirmed the mass but cytologic examination of the fine-needle aspiration biopsy specimen was unremarkable.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Metastasis From Leiomyosarcoma"
+    },
+    {
+        "patient_info": "Female, 50 years old. The patient had laparoscopic cholecystectomy for symptomatic cholelithiasis at an outside hospital and developed symptoms of abdominal pain, nausea, and vomiting 1 week postoperatively.",
+        "laboratory_tests": "Not available",
+        "imaging_studies": "Abdominal ultrasound (no abnormalities detected), Endoscopic retrograde cholangiopancreatography (ERCP) (failed to reveal the cause of symptoms), Abdominal computed tomographic scan (demonstrated a biloma adjacent to the gallbladder fossa), Hepatobiliary iminodiacetic acid scan (showed a persistent biliary leak).",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Transected Right Posterior Hepatic Duct"
+    },
+    {
+        "patient_info": "Female, 54 years old. The patient presented with chronic intermittent sharp midepigastric abdominal pain. She denied having jaundice or a change in her bowel function but admitted to a 5.4-kg weight loss over 3 months. Medical, surgical, family, and social histories were unremarkable. There was no history of neurofibromatosis 1. The results of physical examination were normal.",
+        "laboratory_tests": "Routine laboratory tests, including liver function tests, were normal.",
+        "imaging_studies": "A right upper quadrant ultrasonographic and computed tomographic (CT) scan with contrast revealed a 1.4-cm enhancing lesion in the head of the pancreas without duct dilation.",
+        "question": "What Is the Diagnosis?",
+        "diagnosis": "Pancreatic Schwannoma"
+    },
+    {
+        "patient_info": "Female, 27 years old, healthy-appearing. Presented with vague abdominal discomfort. Medical history included only oral contraception. Physical examination revealed a palpable mass of mild tenderness in the upper right quadrant.",
+        "laboratory_tests": "Serum levels of tumor markers (carcinoembryonic antigen, carbohydrate antigen 19-9, and α-fetoprotein) and serology results for echinococcosis were negative.",
+        "imaging_studies": "Abdominal computed tomography and hepatic magnetic resonance imaging showed a 9-cm-diameter, solid, heterogeneous, encapsulated mass with scattered calcifications that had developed from the inferior part of segment VI of the liver. Gastroscopy and colonoscopy results were normal.",
+        "question": "What is the Diagnosis?",
+        "diagnosis": "Hepatic Calcifying Fibrous Pseudotumor"
+    }
+]
