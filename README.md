@@ -1,5 +1,7 @@
 # ClinBench-HPB
 
+![fig1_hos](https://github.com/user-attachments/assets/3653a0f3-cbfe-4c15-b808-9997b0ef6662)
+
 ## Project Setup
 
 This guide will help you set up the Python virtual environment for this project.
